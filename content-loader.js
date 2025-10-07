@@ -2,7 +2,16 @@
 class ContentLoader {
     constructor() {
         this.contentCache = new Map();
-        this.baseUrl = '';
+        this.baseUrl = this.getBaseUrl();
+    }
+    
+    getBaseUrl() {
+        // For GitHub Pages, detect if we're in a subdirectory
+        const path = window.location.pathname;
+        if (path.includes('/CIS-300-Programaci-n-Web-y-Multimedia/')) {
+            return '/CIS-300-Programaci-n-Web-y-Multimedia/';
+        }
+        return '/';
     }
 
     // Load and cache HTML content
@@ -12,7 +21,9 @@ class ContentLoader {
         }
 
         try {
-            const response = await fetch(path);
+            // Ensure path is relative to base URL
+            const fullPath = path.startsWith('http') ? path : this.baseUrl + path;
+            const response = await fetch(fullPath);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
