@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>(Cintana) CIS 300: Web Design and Development</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <img src="web_resources/CIS300 Canvas Header.png" alt="CIS300 Canvas Header" class="header-image">
+                <div class="course-info">
+                    <h1>(Cintana) CIS 300: Web Design and Development</h1>
+                    <p class="subtitle">Arizona State University - W. P. Carey School of Business</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav class="navigation">
+        <div class="container">
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link active"><i class="fas fa-home"></i> Course Home</a></li>
+                <li><a href="#modules" class="nav-link"><i class="fas fa-list"></i> Learning Modules</a></li>
+                <li><a href="#resources" class="nav-link"><i class="fas fa-folder"></i> Resources</a></li>
+                <li><a href="#faq" class="nav-link"><i class="fas fa-question-circle"></i> FAQ</a></li>
+                <li><a href="#orientation" class="nav-link"><i class="fas fa-compass"></i> Student Orientation</a></li>
+            </ul>
+            <div class="nav-tools">
+                <div class="translator-controls">
+                    <button id="translateBtn" class="translate-btn" onclick="toggleTranslator()">
+                        <i class="fas fa-language"></i>
+                        <span>Traducir</span>
+                    </button>
+                    <div id="translatorPanel" class="translator-panel">
+                        <div class="translator-header">
+                            <h4>Traducción con IA</h4>
+                            <span class="close-translator" onclick="closeTranslator()">&times;</span>
+                        </div>
+                        <div class="translator-body">
+                            <div class="language-selector">
+                                <label for="targetLanguage">Traducir a:</label>
+                                <select id="targetLanguage">
+                                    <option value="es">Español</option>
+                                    <option value="fr">Français</option>
+                                    <option value="de">Deutsch</option>
+                                    <option value="it">Italiano</option>
+                                    <option value="pt">Português</option>
+                                    <option value="zh">中文</option>
+                                    <option value="ja">日本語</option>
+                                    <option value="ko">한국어</option>
+                                    <option value="ru">Русский</option>
+                                    <option value="ar">العربية</option>
+                                </select>
+                            </div>
+                            <div class="translator-status" id="translatorStatus">
+                                <i class="fas fa-info-circle"></i>
+                                <span>Selecciona un idioma para comenzar</span>
+                            </div>
+                            <div class="translator-actions">
+                                <button id="translatePageBtn" class="btn-primary" onclick="translatePage()">
+                                    <i class="fas fa-globe"></i>
+                                    Traducir Página
+                                </button>
+                                <button id="resetTranslationBtn" class="btn-secondary" onclick="resetTranslation()">
+                                    <i class="fas fa-undo"></i>
+                                    Restaurar Original
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="main-content">
+        <div class="container">
+            <!-- Course Home Section -->
+            <section id="home" class="section active">
+                <div id="courseHomeContent">
+                    <!-- Content will be loaded dynamically -->
+                </div>
+            </section>
+
+            <!-- Learning Modules Section -->
+            <section id="modules" class="section">
+                <h2>Learning Modules</h2>
+                <div class="modules-container" id="modulesContainer">
+                    <!-- Content will be loaded dynamically -->
+                </div>
+            </section>
+
+            <!-- Resources Section -->
+            <section id="resources" class="section">
+                <h2>Course Resources</h2>
+                <div class="resources-grid" id="resourcesGrid">
+                    <!-- Content will be loaded dynamically -->
+                </div>
+            </section>
+
+            <!-- FAQ Section -->
+            <section id="faq" class="section">
+                <h2>Frequently Asked Questions</h2>
+                <div class="faq-container" id="faqContainer">
+                    <!-- Content will be loaded dynamically -->
+                </div>
+            </section>
+
+            <!-- Student Orientation Section -->
+            <section id="orientation" class="section">
+                <h2>Student Canvas Orientation</h2>
+                <div class="orientation-content" id="orientationContent">
+                    <!-- Content will be loaded dynamically -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Content Viewer Modal -->
+    <div id="contentModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle"></h3>
+                <span class="close" onclick="closeModal()">&times;</span>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Content will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Media Viewer -->
+    <div id="mediaViewer" class="media-viewer">
+        <div class="media-content">
+            <span class="close-media" onclick="closeMediaViewer()">&times;</span>
+            <div id="mediaContainer"></div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Arizona State University - CIS 300 Course Interface</p>
+            <p>Course content viewer for easy access to learning materials</p>
+        </div>
+    </footer>
+
+    <script src="course-config.js"></script>
+    <script src="content-loader.js"></script>
+    <script src="script.js"></script>
+    <script src="translator.js"></script>
+</body>
+</html>

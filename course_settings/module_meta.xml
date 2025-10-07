@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <module identifier="g8ada65237181b343b6c9c4127d690dc7">
+    <title>Welcome and Start Here</title>
+    <workflow_state>active</workflow_state>
+    <position>1</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g7a8382b6ca6e763cf12749048a2ead54">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Welcome and Start Here</title>
+        <identifierref>g7c71194d42565de6c3e96474fefb0f39</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7ed9666d682de59151502e17794cafa2">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title> You must view Steps 1-5  and complete the Getting Started Quiz to continue with this course.</title>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga0d0a5242784c3f15e723682dca688a3">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Step 1: Understand Academic Integrity in CIS 300 &amp; W. P. Carey Honor Code</title>
+        <identifierref>ga86174892dbc5faf2c066d3cc7875656</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge55729d404622e42508738934a37bfe4">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>CIS 300 Academic Integrity</title>
+        <identifierref>g848831e9ab07581e008906cc93310ee2</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2667053f0380141bc40cac3d9e345ed1">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>W. P. Carey Honor Code</title>
+        <identifierref>gfec9f4a78234b3689c307429dc29f59c</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5244162f89bba4bb37f57544f7d5d2e3">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>ASU Academic Integrity Information</title>
+        <identifierref>ge59c5b87dfa2bdc8a84fad5b76b45cb7</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gba778dc1128be27c38ece126dddfa19d">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Step 2: Get the Textbook &amp; Setup Your Development Environment</title>
+        <identifierref>g139376865bc524e6415d8af5dff1635a</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g615855a0333c906cf56f578b74679794">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Step 3: Software Requirements</title>
+        <identifierref>gf71c455d58a02f12d518f3c55070c44e</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4fb95fe5361423ec974c4f1e7652fac9">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Step 4: Understand Course Case Study and Project Assignments</title>
+        <identifierref>g81cc8ef7679ab6c2f8211b07af2308ff</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g300de9e1c87fd441de6335bcefb85b6a">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Step 5: Understand Course Layout &amp; Read Course Syllabus, Schedule, and FAQ</title>
+        <identifierref>gddcbbb4a6843123b9f4ae6e2d638f0ec</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gfd8b360007090e59a2494a952ea0cb63">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Getting Started Quiz</title>
+        <identifierref>ga42099ed23c9c4846cff6db170cbd256</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6cb9d65f6960e0c3a133149f6933f0c1">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Assignment Helpful Resources</title>
+        <identifierref>g89bb86a21375387da180d32cffcf9094</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gceaa5e1474198858be2375a4484e9e90">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Optional Advanced Topics</title>
+        <identifierref>g19e9cfe5aa866967ce5552f6abbd44e1</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf389cfe1e125cf518e0adf6a51356238">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discussion Board Expectations</title>
+        <identifierref>g8c9b9295e6a55f862995297fa71a7e9e</identifierref>
+        <position>14</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>ga0d0a5242784c3f15e723682dca688a3</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>gba778dc1128be27c38ece126dddfa19d</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g615855a0333c906cf56f578b74679794</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g4fb95fe5361423ec974c4f1e7652fac9</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g300de9e1c87fd441de6335bcefb85b6a</identifierref>
+      </completionRequirement>
+      <completionRequirement type="min_score">
+        <min_score>100.0</min_score>
+        <identifierref>gfd8b360007090e59a2494a952ea0cb63</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g7b35d8f8905c0898a2e3617eadd722af">
+    <title>Week 1</title>
+    <workflow_state>active</workflow_state>
+    <position>2</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="gd3235ecf3d4ab49332fdbd116c9fdb12">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>START HERE</title>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gaf95b804a688bb47e98c8e91444af48d">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 1 - Web &amp; HTML Basics</title>
+        <identifierref>g0516e79851bfc12875c86bc78d676f3a</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gaeca4e811fad3eb30165a93919415774">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>READ: Assigned chapters</title>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge292a605d2026100593a0738364d5cab">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>WATCH</title>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gda6c31cb159bb3cb92da0bd15d0af0ea">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 1 Internet Web Basics</title>
+        <identifierref>ga120eca643097a51f4d38c3d1830a538</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc59adff33be63a2fcbe512f48b7fab0a">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>active</workflow_state>
+        <title>How the Internet Works in 5 Minutes</title>
+        <identifierref>gc59adff33be63a2fcbe512f48b7fab0a</identifierref>
+        <url>https://www.youtube.com/watch?v=7_LPdttKXPc</url>
+        <position>6</position>
+        <new_tab>true</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g331e19b8e21ba3116eb2d667f3d23131">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>active</workflow_state>
+        <title>DNS Explained</title>
+        <identifierref>g331e19b8e21ba3116eb2d667f3d23131</identifierref>
+        <url>https://www.youtube.com/watch?v=72snZctFFtA</url>
+        <position>7</position>
+        <new_tab>true</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge7c16c64c6ae0efd7d3ceed12168f331">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>active</workflow_state>
+        <title>A Packet's Tale. How Does the Internet Work?</title>
+        <identifierref>ge7c16c64c6ae0efd7d3ceed12168f331</identifierref>
+        <url>https://www.youtube.com/watch?v=ewrBalT_eBM</url>
+        <position>8</position>
+        <new_tab>true</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6f9f16f43bc65549ff1623590d0f515f">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 2 HTML Basics</title>
+        <identifierref>ge3c6c3dba7a086b913b8c1afdfbab4e6</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g199ad4f2174e7b09617e264e03551b2f">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>HTML Basics</title>
+        <identifierref>g684698638b4107e3080be10184144004</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4dfc4c41f88bd72bd58b13892636a616">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>COMPLETE</title>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0b6fa69d45efe870f25586225e32d8ae">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Case Study | Ch2 - Week 1</title>
+        <identifierref>g0df3f1c6b1369715ad2953be1bb894e6</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd08559df07f749dc6c5c6d997ce1df02">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz | Week 1</title>
+        <identifierref>g963d98fe8ae4305cdc4441aa11eb466a</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2a578d430506ae4759c621fae55b5bc9">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Optional Feedback Survey</title>
+        <identifierref>g2a578d430506ae4759c621fae55b5bc9</identifierref>
+        <url>https://wpcareyschool.qualtrics.com/jfe/form/SV_09tJIyOYXOeRq5f?week=start+here&amp;Q_JFE=qdg</url>
+        <position>14</position>
+        <new_tab>true</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>gaf95b804a688bb47e98c8e91444af48d</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>gda6c31cb159bb3cb92da0bd15d0af0ea</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g6f9f16f43bc65549ff1623590d0f515f</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g199ad4f2174e7b09617e264e03551b2f</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>gc59adff33be63a2fcbe512f48b7fab0a</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g331e19b8e21ba3116eb2d667f3d23131</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>ge7c16c64c6ae0efd7d3ceed12168f331</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g2a578d430506ae4759c621fae55b5bc9</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g0b6fa69d45efe870f25586225e32d8ae</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>gd08559df07f749dc6c5c6d997ce1df02</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g1c05e00da2a2c51ee3ff6ece32fdebca">
+    <title>Case Study Solution - release week 2</title>
+    <workflow_state>active</workflow_state>
+    <position>3</position>
+    <unlock_at>2022-01-17T16:00:00</unlock_at>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="ga08468f3fb9102bea0512af2e886a150">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 1 Case Study Solution</title>
+        <identifierref>g359ad8f8d8f88e24656724ff9e8f6470</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>ga08468f3fb9102bea0512af2e886a150</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g7ab8801ae9fc790ce0d4ea7dec6065f1">
+    <title>Week 2</title>
+    <workflow_state>active</workflow_state>
+    <position>4</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="g02b45d9cdf110b2be110f827f4e19db7">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>START HERE</title>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4e0cc3002368f41ef6c2a9b40b30689a">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 2 - Cascading Style Sheets</title>
+        <identifierref>g5120f0ae2e7ba7a71a79e9b52f6e204a</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc727d2e4b8a6ae691ac8f76deefce014">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>READ: Assigned chapters</title>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gcf3a8b0abcab79dbc4e7928538aee22d">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>WATCH</title>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g23d19eb5d6d51266fb83c6abbdf8ccba">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 3 Web Design Basics</title>
+        <identifierref>gbe8cc5eaa152782b880031203408c1ff</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g65d80bda842b4cda3ca929e5d54b4fbc">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 4 Cascading Style Sheets Basics</title>
+        <identifierref>g6c80cbc9c4cb4444d19138e04ecbae9b</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8bf9cefb301f3e1f5fd82b4860965d5d">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>CSS Basic Tips</title>
+        <identifierref>gc98ed1d4df2eb8c51a7bd7eeed948d0b</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb5849469e8ffa537c9c877683f3afed3">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>COMPLETE</title>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9e04264ae665c29fb95da17a30996836">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Case Study | Ch4 - Week 2</title>
+        <identifierref>g4287e17410716fd8d3f17e2b5c69d50a</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5a2beb70e072c015d4aa59cdab361a3c">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Project | Week 2 - Topic Approval</title>
+        <identifierref>g9b9edf9cae8a0c907a944d8952f870cb</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="geeab68700395c2c8767621ff2d08e65e">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz | Week 2</title>
+        <identifierref>g3be8d83d7ec94b8630746d0bac142e91</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g043bfeef6aac8f10a5e8611e7c207fa0">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>unpublished</workflow_state>
+        <title>Optional Feedback Survey</title>
+        <identifierref>g043bfeef6aac8f10a5e8611e7c207fa0</identifierref>
+        <url>https://wpcareyschool.qualtrics.com/jfe/form/SV_09tJIyOYXOeRq5f?week=start+here&amp;Q_JFE=qdg</url>
+        <position>12</position>
+        <new_tab>true</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>g4e0cc3002368f41ef6c2a9b40b30689a</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g23d19eb5d6d51266fb83c6abbdf8ccba</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g65d80bda842b4cda3ca929e5d54b4fbc</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g8bf9cefb301f3e1f5fd82b4860965d5d</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g9e04264ae665c29fb95da17a30996836</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g5a2beb70e072c015d4aa59cdab361a3c</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>geeab68700395c2c8767621ff2d08e65e</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g043bfeef6aac8f10a5e8611e7c207fa0</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g2a9e29956e9f48217ac4d8aba6e35743">
+    <title>Case Study Solution - release week 3</title>
+    <workflow_state>active</workflow_state>
+    <position>5</position>
+    <unlock_at>2022-01-24T15:00:00</unlock_at>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="gc863dea1de871d4dd1a4455c838aab02">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 2 Case Study Solution</title>
+        <identifierref>g46c696a81a64abf2663565efc8ee7251</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>gc863dea1de871d4dd1a4455c838aab02</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g54477ad1db1973f45e0e3f26805eca56">
+    <title>Week 3</title>
+    <workflow_state>active</workflow_state>
+    <position>6</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="g37499dff498c5c9bb8c4edd9de7d26b2">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>START HERE</title>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb080894f7e66598b2157fc2860b4d487">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 3 - Graphics &amp; Text Styling</title>
+        <identifierref>gd187d9603d811e0c0f9c93f9cd478e05</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g208e961fa67479b2f24f20f290622fc7">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>READ: Assigned chapters</title>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc2c70e18330d5f3a50328004986ba4d1">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>WATCH</title>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g8411ac35bd84dd70694e737c61f3c1e6">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 5 Graphics &amp; Text Styling Basics</title>
+        <identifierref>gc7a0c3ed089cdf552032c8d0b5a85960</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf10a34fea2f378b91d6dbe00360eb026">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 6 More CSS Basics</title>
+        <identifierref>g28868bb2212edb0a92c4cda9e81646b3</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge9e76acf8b25d71174239d8631a362c8">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Add Images</title>
+        <identifierref>g0435a29f9050f3eb78abdaf2f24ff370</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2f8449f6ff0c390634e30e98570a1752">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>The Box Model</title>
+        <identifierref>gfa03d0076c131641ae09f99ad57337fe</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc9393addb9b351b3dbd6d8b778d95816">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>COMPLETE</title>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g204f567c18d9418ce5aaa6003af79b24">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Case Study | Ch6 - Week 3</title>
+        <identifierref>ge95ad4db913f3c97667cccd937798573</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga945e8816abf3deab5d5821113bfc9a4">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Project | Week 3 - Planning Analysis Sheet</title>
+        <identifierref>g3540a11e4e1deb4412c90652c998350b</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g628c0034d6cd4334f714ceb3864054c2">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz | Week 3</title>
+        <identifierref>g744e4e5e2ef6015363dd3599cdaa6efe</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>gb080894f7e66598b2157fc2860b4d487</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g8411ac35bd84dd70694e737c61f3c1e6</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>gf10a34fea2f378b91d6dbe00360eb026</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>ge9e76acf8b25d71174239d8631a362c8</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g2f8449f6ff0c390634e30e98570a1752</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g204f567c18d9418ce5aaa6003af79b24</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>ga945e8816abf3deab5d5821113bfc9a4</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g628c0034d6cd4334f714ceb3864054c2</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g7de8060e7f1d3c8337046eb266f042f2">
+    <title>Case Study Solution - release week 4</title>
+    <workflow_state>active</workflow_state>
+    <position>7</position>
+    <unlock_at>2022-01-31T16:00:00</unlock_at>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="g2b51dee8d7a2054118cc28734d2dc1f3">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 3 Case Study Solution</title>
+        <identifierref>g3a81d887db51ea3b27870ab40f2c8fbb</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>g2b51dee8d7a2054118cc28734d2dc1f3</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="gb5b87d0b8bd5f856ea6ac1ebef92de4b">
+    <title>Week 4</title>
+    <workflow_state>active</workflow_state>
+    <position>8</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="g23748f81dbd56f4da2f65e5fb00bfb15">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>START HERE</title>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g624d3f685bd031d924c650f6feb27d9d">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 4 - Links, Layouts, and Mobile </title>
+        <identifierref>gcd91b728fed08f8d392a287f2bcf5aa8</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1463b8a49d7883a66758c6cde76d4f4d">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>READ: Assigned chapters</title>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd2925efcea3b8d4a550d0c39f23c02d7">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>WATCH</title>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc3e6aaacb9631aa8aff0cc7809eae1d6">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 7 Page Layout Basics</title>
+        <identifierref>g463cc17de21533567b90db8b20f38766</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6112140c0e125a75bfe314ae221e0544">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 8 More on Links, Layout, and Mobile</title>
+        <identifierref>gc006f5c26dee08637d75465ae27f3b1a</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g60e744b4fef0c25eb8113f14a7b11b19">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Layout.mp4</title>
+        <identifierref>g1b3c194f4bbce626eaf310becd2ba866</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4ebb4430194b53522e2fc3dc39eaf4ce">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>COMPLETE</title>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0212a0560938018fd9d9fe46f1526152">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Case Study | Ch8 - Week 4</title>
+        <identifierref>g172a8c1158f8e2acb38f755442983ddf</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1ce39d6445f6ede63420feb9c37fa76d">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Project | Week 4 - Site Map</title>
+        <identifierref>ge08191c7e3b521ee6c9c32f842bcfcfc</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6a4b6c79ed1d6f9bae2ee3f649141cb5">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Project | Week 4 - Page Layout Design</title>
+        <identifierref>gedebfa395667eba93ebe7015519f4106</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gca4b16ddd77151671688bda70cdcb577">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz | Week 4</title>
+        <identifierref>ga72cbaa98d48e541ab87920b834ee456</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>g624d3f685bd031d924c650f6feb27d9d</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>gc3e6aaacb9631aa8aff0cc7809eae1d6</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g6112140c0e125a75bfe314ae221e0544</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g0212a0560938018fd9d9fe46f1526152</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g1ce39d6445f6ede63420feb9c37fa76d</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g6a4b6c79ed1d6f9bae2ee3f649141cb5</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>gca4b16ddd77151671688bda70cdcb577</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g5710e5ae43dc76e2fa80c54fc3078ba8">
+    <title>Case Study Solution - release week 5</title>
+    <workflow_state>active</workflow_state>
+    <position>9</position>
+    <unlock_at>2022-02-07T16:00:00</unlock_at>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="g17094219d30cb54fdd311e27c1184b57">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 4 Case Study Solution</title>
+        <identifierref>ga8850ca5b50c0996d1749ecbc56dbd38</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>g17094219d30cb54fdd311e27c1184b57</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g6150d6bbea568ecf0a8ed8ef38769e4a">
+    <title>Week 5</title>
+    <workflow_state>active</workflow_state>
+    <position>10</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="gd7415767cfd8a5e229f12d3eac02af26">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>START HERE</title>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g61c6e61708c9775333cd742205a4c5c6">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 5 - Tables &amp; Forms</title>
+        <identifierref>ga0f65af5e21aefc68000ace107340ba9</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2bc5ee0f727d9626f2a67b50ddfe8ecf">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>READ: Assigned chapters</title>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc635b926bac8d43a34d961c9aced2f51">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>WATCH</title>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g52b1b5e61b29c60ede87ab6e0c94fe6f">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 9 Table Basics</title>
+        <identifierref>gc59452330772a82eea5841a91a3a0193</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7cf5c87959a8a6be01eb858ac8f460ab">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 10 Form Basics</title>
+        <identifierref>g82a45a2d57cc9c99b47459712a1044a2</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g591dc891c08b7f5eb1a8fdcb7e7a1d8c">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>COMPLETE</title>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga5f929afa22145875e96ae9825c7a0f0">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Case Study | Ch10 - Week 5</title>
+        <identifierref>g16846c71fd68451556171f2dc02f94ad</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g567b37d508538bf6c723a377f9c911d7">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Project | Week 5 - Update #1</title>
+        <identifierref>gb2e19c03ec44a44c5ebbab06378415e4</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5be7ebb3fa44ecf36db45ee7011433b1">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz | Week 5</title>
+        <identifierref>g3165fdc11b88af823ca78bee9f89e5a3</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>g61c6e61708c9775333cd742205a4c5c6</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g52b1b5e61b29c60ede87ab6e0c94fe6f</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g7cf5c87959a8a6be01eb858ac8f460ab</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>ga5f929afa22145875e96ae9825c7a0f0</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g567b37d508538bf6c723a377f9c911d7</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g5be7ebb3fa44ecf36db45ee7011433b1</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g2ef526279e5e783f3ed692f07f64613e">
+    <title>Case Study Solution - release week 6</title>
+    <workflow_state>active</workflow_state>
+    <position>11</position>
+    <unlock_at>2022-02-14T15:00:00</unlock_at>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="g666c0274680b5ada9be43e6eb0fde486">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 5 Case Study Solution</title>
+        <identifierref>gdd402ff6a0ac412ac52f23c0e63d1d3b</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>g666c0274680b5ada9be43e6eb0fde486</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g180b4e015f9d3ecb238c782e21ccf78d">
+    <title>Week 6</title>
+    <workflow_state>active</workflow_state>
+    <position>12</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="g86948e0c96239eb7e4d6b1d4890719f8">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>START HERE</title>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga0cc02764ffbc1b7a75b598a34d99810">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 6 - Media, Interactivity &amp; Web Publishing</title>
+        <identifierref>g6cb645ab7cfb8bebb03dc6ffabae3d30</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4f81c071d490584795b0cf790498d08a">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>READ: Assigned chapters</title>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g112b1ae2a25c2c586143a1f38420896a">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>WATCH</title>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf4ef1e190dc4e7f883279c01b533ac47">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 11 Media and Interactivity Basics</title>
+        <identifierref>g639dadef04d1f77940133ceb4b78a6a1</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2ee79646be846b7abdc5c19aae0c8afb">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Chapter 12 Web Publishing Basics</title>
+        <identifierref>ge37e125710566fb5ae235e0fe9ffe2a2</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g53dde8aa5ea210bfe22e99595aa38eb6">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Optional Advanced Topics</title>
+        <identifierref>g19e9cfe5aa866967ce5552f6abbd44e1</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g793b5cfb2c2e710b983bff0765035555">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Getting Online (Optional) </title>
+        <identifierref>g2edd87244e1d33b42ad688b5a3bf6ada</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7fef80107c2bfe950be8baee218c14a3">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>COMPLETE</title>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3eb4d40ba466168c0d341303b3735dc5">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Case Study | Ch12 - Week 6</title>
+        <identifierref>g85d57447171ed4f542257e33d3cf405c</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6cee03bd14218e93ae2b500170479ce8">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Project | Week 6 - Update #2</title>
+        <identifierref>g07451a1b9fa0538f1418dde417ad1507</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g2c1b85d3f6c49de19f3ee8469e7da873">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz | Week 6</title>
+        <identifierref>g74ffe12547382713c8397863825300a5</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>ga0cc02764ffbc1b7a75b598a34d99810</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>gf4ef1e190dc4e7f883279c01b533ac47</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g2ee79646be846b7abdc5c19aae0c8afb</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g793b5cfb2c2e710b983bff0765035555</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g3eb4d40ba466168c0d341303b3735dc5</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g6cee03bd14218e93ae2b500170479ce8</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g2c1b85d3f6c49de19f3ee8469e7da873</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_view">
+        <identifierref>g53dde8aa5ea210bfe22e99595aa38eb6</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="gc1fb3e14904a25fac869e6baef3c8b63">
+    <title>Week 7</title>
+    <workflow_state>active</workflow_state>
+    <position>13</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <prerequisites>
+      <prerequisite type="context_module">
+        <title>Welcome and Start Here</title>
+        <identifierref>g8ada65237181b343b6c9c4127d690dc7</identifierref>
+      </prerequisite>
+    </prerequisites>
+    <items>
+      <item identifier="gd214e2fbea5f5bd8ad518f6fa7af9dd0">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>START HERE</title>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4864867655e32d592fd9e5da8cd2a520">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 7 - Final Project </title>
+        <identifierref>g883ec832376de2fdcdc19c72b08e89ad</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc41a94a16dd35c29e33dc00ac8083f3c">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>COMPLETE</title>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gb9195f906d8119d28efc14b188cdcbf4">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Project | Final Project</title>
+        <identifierref>g4686d4daaa0616c541b27f7f2fe6e145</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>1</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+    <completionRequirements>
+      <completionRequirement type="must_view">
+        <identifierref>g4864867655e32d592fd9e5da8cd2a520</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>gb9195f906d8119d28efc14b188cdcbf4</identifierref>
+      </completionRequirement>
+    </completionRequirements>
+  </module>
+  <module identifier="g606bfec4b10f785032b2807d5a2d2b2a">
+    <title>FAQ</title>
+    <workflow_state>active</workflow_state>
+    <position>14</position>
+    <locked>false</locked>
+    <items>
+      <item identifier="gebb4aa9d874358712deb55aeaaecfb72">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Do I need the textbook?</title>
+        <identifierref>g4c59c77ae7f50a3e0611da1e6cfeb616</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3d150caacefdd8ecd19d09c84b7f518a">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Windows or a Mac?</title>
+        <identifierref>g4c360844424c3a9ce1d668c8ce478858</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0dc728c574606b73dda4d8e9c3f2c20b">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>How to create a html file?</title>
+        <identifierref>g1ffe06f6edc09ef5c43ef967ac001470</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g182c9483ad0e0658325d924d0e1afd02">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>How to submit the case study assignments?</title>
+        <identifierref>gc0f574b2980c8c3027df57f3ef80b4a9</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge1b0cf6db733f5bc6be5b74ac42e794b">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>How do I  check if the assignment zipped file is correct?</title>
+        <identifierref>g834b35a41095b35adf0127d808a7fcbe</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga6a2808d572600c426c6104e94acacf8">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>What format is accepted for submitting case study assignments?</title>
+        <identifierref>g95e2d13e3da08f04fbbcf0b2a9c46cef</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5e028e74071e183c7269b2c9a7fbc610">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Where can I find the image and video files needed for the case study assignments?</title>
+        <identifierref>g996db9adba02bb75ff90bcc30d34d8cf</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5dc5d278887cacdae738e30e9c0460b5">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>What to do when I run into problems?</title>
+        <identifierref>g7371ffae50ddba7f4e60afaaacfeaf10</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd6cdf1ed5d8068a29099786a02c160b7">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Week 4 Assignment FAQ</title>
+        <identifierref>g98d5302a48fef91e9b0d5fdadcea8216</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0ef5acdd768e7deaa53309e3abac1490">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Can I include a YouTube video in the project assignment?</title>
+        <identifierref>g540cce57669db9dfeb589ff7df9e0563</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge7d000fe3b49de8a2661626e646e7a4f">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Do I need to zip the project word document?</title>
+        <identifierref>g9a94e632043b62709d1656685b4ee804</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g7b4acef4c8a4d57e748ca3522df9f019">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Canvas has no responses to Last Week Final Project Submission</title>
+        <identifierref>g7c4cfd99817ebd9653713e5508c97b61</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd6aacbf75e8c4f351441c81bcd9c0c6e">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>CIS300-Developer Tools for Troubleshooting.mp4</title>
+        <identifierref>g83dd55dc698aea99ba7fe0bcabd0c498</identifierref>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="g96b56c07a128a80c4f48dde81a44ab65">
+    <title>Student Canvas Orientation</title>
+    <workflow_state>active</workflow_state>
+    <position>15</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g5480e25856e0937033845aeb284a6edb">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>GETTING STARTED</title>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g56bf0c050ba9c213f5a66176b6f4171a">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Canvas Student Orientation</title>
+        <identifierref>g1be808d1b997d65589487e028d59038b</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g9be370985a41d14196a141c6361334e2">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Access Canvas</title>
+        <identifierref>gc19623d74e4184191bbdab81257b7d99</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga8635c38c5394c318d4d875d367ce873">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Explore the Canvas Interface</title>
+        <identifierref>g41d6379107a0826a86ac70735f8a9367</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0fb8187de6c08a76a26d25ccacb00c3d">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Update Account Settings and Notification Preferences</title>
+        <identifierref>g5c3cc803d69e982c5f6e28583bf39e2a</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gcf52e5237cec7e09f92f8057aff7a25e">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read the Syllabus</title>
+        <identifierref>g1f9c7a0a860f114e2f9dfc116af088ea</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g54c49b0835af9c2f283dfb9d640e2181">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>PARTICIPATING IN THE COURSE</title>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g02321207b3a2984e87d5c82e5274315c">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Participate in your Group</title>
+        <identifierref>gcfc61a85a3e4b4d19a5e18b80f1e4a32</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g06bf6178addb21303b7256a83a684801">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Check the Calendar</title>
+        <identifierref>g3682b0591f98543e3c9e49e09f4a092a</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gefb58b420a4388032914ed938d53c506">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Navigate Modules</title>
+        <identifierref>g64b7f53fe5798c254c07cf24bc8d808c</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga9cbacbe00e1168d16cca28ab86bde94">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Turn in an Assignment</title>
+        <identifierref>g264b55e840e9e06c549670c632608c71</identifierref>
+        <position>11</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge2d36c8a229aa45ff7f9112f4483aada">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Take a Quiz</title>
+        <identifierref>g9bb58741d98c7d3c2a0c6dbedf97cb8f</identifierref>
+        <position>12</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6496919cbd54aa1752a1f19217da5fb4">
+        <content_type>ContextModuleSubHeader</content_type>
+        <workflow_state>active</workflow_state>
+        <title>GETTING HELP</title>
+        <position>13</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gab396b06b153890517ad2aaf54c2a46f">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Get Help</title>
+        <identifierref>g2fe90cfdc8516443b8ee6b8dc66359da</identifierref>
+        <position>14</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+</modules>

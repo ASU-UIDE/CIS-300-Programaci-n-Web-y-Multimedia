@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <objectbank ident="g23bd524cd82025289d7eb841d3dbae55">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>bank_title</fieldlabel>
+        <fieldentry>Unfiled Questions</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>bank_context_uuid</fieldlabel>
+        <fieldentry>gOh39xpuo56iRFyFUo7W2SQo5LPMnrBdwjzlYCsu</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <item ident="g8ec13887f14bfa4cf3e7efb2a7ddc972" title="Question">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>5.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>44855,40544</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;An access code for the companion website is required for the textbook.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="44855">
+              <material>
+                <mattext texttype="text/plain">True</mattext>
+              </material>
+            </response_label>
+            <response_label ident="40544">
+              <material>
+                <mattext texttype="text/plain">False</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">44855</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="gd58b49a3e5f88318a64b00fce534ddb1" title="Question">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>5.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>63272,18456,91117,44417</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;This course uses a weighted grading system, what weights are used for this class?&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="63272">
+              <material>
+                <mattext texttype="text/html">&lt;p&gt;Quizzes: 25%&lt;/p&gt;
+&lt;p&gt;Case Studies: 25%&lt;/p&gt;
+&lt;p&gt;Final Project Deliverables: 50%&lt;/p&gt;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="18456">
+              <material>
+                <mattext texttype="text/html">&lt;p&gt;Quizzes: 10%&lt;/p&gt;
+&lt;p&gt;Case Studies: 20%&lt;/p&gt;
+&lt;p&gt;Final Project Deliverables: 70%&lt;/p&gt;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="91117">
+              <material>
+                <mattext texttype="text/html">&lt;p&gt;Quizzes: 15%&lt;/p&gt;
+&lt;p&gt;Case Studies: 30%&lt;/p&gt;
+&lt;p&gt;Final Project Deliverables: 55%&lt;/p&gt;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="44417">
+              <material>
+                <mattext texttype="text/html">&lt;p&gt;Quizzes: 45%&lt;/p&gt;
+&lt;p&gt;Case Studies: 50%&lt;/p&gt;
+&lt;p&gt;Final Project Deliverables: 5%&lt;/p&gt;</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">63272</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+  </objectbank>
+</questestinterop>

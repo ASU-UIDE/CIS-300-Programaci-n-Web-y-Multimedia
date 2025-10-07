@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g963d98fe8ae4305cdc4441aa11eb466a" title="Quiz | Week 1">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry>30</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <section ident="g5a7e04ba69153e0bedbe66e5bfb3e095" title="Question Group">
+        <selection_ordering>
+          <selection>
+            <sourcebank_ref>gd0b773fbb85007e576c6fcfe8fd36efe</sourcebank_ref>
+            <selection_number>10</selection_number>
+            <selection_extension>
+              <points_per_item>4.0</points_per_item>
+            </selection_extension>
+          </selection>
+        </selection_ordering>
+      </section>
+      <section ident="gb685bc0c8f1fb6f474aec0f33604e0a1" title="Question Group">
+        <selection_ordering>
+          <selection>
+            <sourcebank_ref>gc62ad25dda8fafb2cf3b35f2be752909</sourcebank_ref>
+            <selection_number>15</selection_number>
+            <selection_extension>
+              <points_per_item>4.0</points_per_item>
+            </selection_extension>
+          </selection>
+        </selection_ordering>
+      </section>
+    </section>
+  </assessment>
+</questestinterop>

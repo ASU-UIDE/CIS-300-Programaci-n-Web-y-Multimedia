@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course identifier="g430eb3b4611a9a04f777c05883917aab" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <title>(Cintana) CIS 300: Web Design and Development</title>
+  <course_code>DEV-CIN-2022SpringA-X-CIS300-103875-000</course_code>
+  <start_at>2022-05-27T18:50:09</start_at>
+  <conclude_at/>
+  <tab_configuration>[{"id":0},{"id":14},{"id":1},{"id":10},{"id":8},{"id":5},{"id":"context_external_tool_gbb11bc2c931054239032b093d3992bd6"},{"id":"context_external_tool_34299"},{"id":"context_external_tool_g51fad52dbc1218ea04b66c589c8fbdd8","hidden":true},{"id":"context_external_tool_g354d0029d62cb17be3b2e33dca726cc5","hidden":true},{"id":"context_external_tool_318","hidden":true},{"id":18,"hidden":true},{"id":17,"hidden":true},{"id":"context_external_tool_g2225177f90bdc750e99e16ff1cb0a7d7","hidden":true},{"id":"context_external_tool_g73e8efb8f57abd25755d1cb38fd71983","hidden":true},{"id":"context_external_tool_gc78bef84b8eb12cc1b4afc991f7acb64","hidden":true},{"id":"context_external_tool_52","hidden":true},{"id":"context_external_tool_139","hidden":true},{"id":"context_external_tool_g5f34bc0721d07ab11e923f1a06028b25","hidden":true},{"id":"context_external_tool_1131","hidden":true},{"id":"context_external_tool_gdf6d56da1b41f854e33402ad1135e776","hidden":true},{"id":"context_external_tool_1158","hidden":true},{"id":"context_external_tool_g399e7b33e06bbd41ee8d714e61694c7b","hidden":true},{"id":"context_external_tool_g46b363e6c27ccbeafc5a71b44bd9227c","hidden":true},{"id":"context_external_tool_g6398fc641017eb86af4d6a932f8e9776","hidden":true},{"id":"context_external_tool_5399","hidden":true},{"id":"context_external_tool_20015","hidden":true},{"id":"context_external_tool_gd0b54dede0f6a07fc4861f1c0ea4160a","hidden":true},{"id":4,"hidden":true},{"id":15,"hidden":true},{"id":11,"hidden":true},{"id":2,"hidden":true},{"id":6,"hidden":true},{"id":3,"hidden":true},{"id":"context_external_tool_gfc558f3e9496f4f63750ef63e3438114","hidden":true},{"id":"context_external_tool_85425","hidden":true},{"id":"context_external_tool_gdc4303a7b6cf1a1e0dff75c5b92f63a5","hidden":true},{"id":"context_external_tool_g1d5277e8473e2496bab5f0135b2d8273","hidden":true},{"id":"context_external_tool_137330","hidden":true},{"id":"context_external_tool_gdbfaffbed0efa671ffacf83c09964088","hidden":true},{"id":"context_external_tool_172656","hidden":true},{"id":"context_external_tool_g669aca7e92ea167b1523f6b7f244b1b2","hidden":true},{"id":"context_external_tool_275915","hidden":true},{"id":"context_external_tool_gd1d40251f1b715f00ebd2589580b54e9","hidden":true}]</tab_configuration>
+  <image_identifier_ref>g2a92bd1adb2fda3cb35dfab8559bf05a</image_identifier_ref>
+  <group_weighting_scheme>percent</group_weighting_scheme>
+  <is_public>false</is_public>
+  <is_public_to_auth_users>false</is_public_to_auth_users>
+  <public_syllabus>false</public_syllabus>
+  <public_syllabus_to_auth>false</public_syllabus_to_auth>
+  <allow_student_wiki_edits>false</allow_student_wiki_edits>
+  <syllabus_course_summary>true</syllabus_course_summary>
+  <allow_student_forum_attachments>true</allow_student_forum_attachments>
+  <lock_all_announcements>false</lock_all_announcements>
+  <default_wiki_editing_roles>teachers</default_wiki_editing_roles>
+  <allow_student_organized_groups>false</allow_student_organized_groups>
+  <default_view>wiki</default_view>
+  <show_total_grade_as_points>false</show_total_grade_as_points>
+  <open_enrollment>false</open_enrollment>
+  <filter_speed_grader_by_student_group>false</filter_speed_grader_by_student_group>
+  <allow_wiki_comments>false</allow_wiki_comments>
+  <self_enrollment>false</self_enrollment>
+  <license>private</license>
+  <indexed>false</indexed>
+  <hide_final_grade>false</hide_final_grade>
+  <hide_distribution_graphs>false</hide_distribution_graphs>
+  <allow_student_discussion_topics>false</allow_student_discussion_topics>
+  <allow_student_discussion_editing>false</allow_student_discussion_editing>
+  <show_announcements_on_home_page>true</show_announcements_on_home_page>
+  <home_page_announcement_limit>2</home_page_announcement_limit>
+  <usage_rights_required>false</usage_rights_required>
+  <restrict_student_future_view>false</restrict_student_future_view>
+  <restrict_student_past_view>true</restrict_student_past_view>
+  <restrict_enrollments_to_course_dates>false</restrict_enrollments_to_course_dates>
+  <homeroom_course>false</homeroom_course>
+  <horizon_course>false</horizon_course>
+  <conditional_release>false</conditional_release>
+  <grading_standard_enabled>true</grading_standard_enabled>
+  <storage_quota>2147483648</storage_quota>
+  <overridden_course_visibility/>
+  <grading_standard_identifier_ref>g21498682ed19ceb5ae0193aff5fbd6af</grading_standard_identifier_ref>
+  <root_account_uuid>nHHP1jS4lnwGPxZv9rfVToTna6MdWBcw5Y1hlepv</root_account_uuid>
+  <default_post_policy>
+    <post_manually>false</post_manually>
+  </default_post_policy>
+</course>

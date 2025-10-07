@@ -1,0 +1,56 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Week 4 Assignment FAQ</title>
+<meta name="identifier" content="g98d5302a48fef91e9b0d5fdadcea8216"/>
+<meta name="editing_roles" content="teachers"/>
+<meta name="workflow_state" content="active"/>
+</head>
+<body>
+<p><a title="Course FAQ" href="$WIKI_REFERENCE$/pages/g1ff67c8b131cf912fc39d57a05e3cb7c" data-api-endpoint="https://asu.instructure.com/api/v1/courses/72316/pages/course-faq" data-api-returntype="Page">Back to FAQ</a></p>
+<h4><strong>Wireframe Project Assignment</strong></h4>
+<p>Q:&nbsp;&nbsp;Do we need to create a wireframe for each page on the site or just the home page?&nbsp;</p>
+<p>A: Just the Home page or one of the other pages, but make sure you include as much as info you can based on the instruction in the project doc. The purpose of the wireframe is to display your website on paper. It is easier to change the wireframe vs. to change the HTML and CSS code. If you are working for a client, you can put a wireframe together so you can communicate with your client before you start creating the code.&nbsp;</p>
+<p>Q:&nbsp; How detail the information should we include?</p>
+<p>A:&nbsp; We need to have as detail info as possible.&nbsp; For example,<span>&nbsp;</span><strong><span>do NOT just write a "header" in the header section but specify what kind info will be included in the header section</span></strong>, e.g. logo, company name, company picture, a slogan, etc.&nbsp; If you will not have a logo in the website, make a note for that.&nbsp;</p>
+<p><span><strong>In the nav section, list all the nav items which should be matched to the sitemap blocks.&nbsp;</strong></span></p>
+<p>In the main section, display where the hero image, if there is, text, or video/form/table are located.&nbsp;</p>
+<p><span><strong>In the footer section, do NOT just write a "footer" in that section</strong></span><span>&nbsp;</span>but specify what info will be included in that section, e.g.&nbsp; email, copyright, social media icons, company contact info, or some nav items, etc.&nbsp;</p>
+<p>Review the attached rubric to see how the assignment will be graded.&nbsp;&nbsp;</p>
+<p>Here is an example that can be found in <a href="https://www.edrawsoft.com/website-design-wireframe-example.html" target="_blank">https://www.edrawsoft.com/website-design-wireframe-example.html</a>&nbsp;</p>
+<p><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/Screen%20Shot%202021-02-04%20at%205.42.40%20PM.png" alt="Screen Shot 2021-02-04 at 5.42.40 PM.png" data-api-endpoint="https://asu.instructure.com/api/v1/courses/72316/files/27933057" data-api-returntype="File" loading="lazy">&nbsp;&nbsp;</p>
+<h4><strong>Case Study Assignment</strong></h4>
+<p>Q:&nbsp;&nbsp;Is Task 2, 12th bullet item in chapter 7 asking to create an unordered list in the main content area?&nbsp;</p>
+<p>A:&nbsp; Yes, because we will have two unordered list, one in the main content area and one in the nav area so we need to configure the unordered list in the main content area.</p>
+<p>Q: In the Yurts page, the 3 sections won't display in one row.&nbsp;&nbsp;</p>
+<p>A:&nbsp; A couple of places to check:</p>
+<p>1.&nbsp; In pacific.css, make sure the first line is * { box-sizing: border-box; }.&nbsp;</p>
+<p>The * is needed.&nbsp;</p>
+<p>2. In pacific.css file, the section selector should have the following 2 properties and the other properties, based on the instruction in page 252, Task 2, the 11th bullet</p>
+<p>float: left;<br>width: 33%;</p>
+<p>3.&nbsp; In yurts.html and activities.html, we need to have 3 sections -</p>
+<p>&lt;section&gt;</p>
+<p>....</p>
+<p>&lt;/section&gt;</p>
+<p>&lt;section&gt;</p>
+<p>....</p>
+<p>&lt;/section&gt;</p>
+<p>&lt;section&gt;</p>
+<p>....</p>
+<p>&lt;/section&gt;</p>
+<p>Because each section width is 33%, those 3 sections will be fit to one line.</p>
+<p>Q: How can I test the responsive Layout?</p>
+<p>A: Chrome developer tool can be used to test the responsive Layout and troubleshoot other problems we may have.&nbsp; To open the developer tool, first open the html file in a Chrome browser, right click your mouse, then click Inspect.&nbsp; To view the html file in a Responsive layout, click the "Toggle Device Toolbar" icon <img src="$IMS-CC-FILEBASE$/Uploaded%20Media/Screen%20Shot%202021-02-03%20at%2012.06.08%20PM.png" alt="Screen Shot 2021-02-03 at 12.06.08 PM.png" data-api-endpoint="https://asu.instructure.com/api/v1/courses/72316/files/27865936" data-api-returntype="File" loading="lazy">&nbsp; It is located on the right side of the Elements item above the html code.&nbsp; In the option bar, above the page view, we can change the width (e.g. from 1024 to 600) as well as 100% to 50% (for better viewing the whole page).&nbsp; We can also just drag the two vertical bars icon on the right side of the page view to make it wider or narrower.&nbsp;&nbsp;</p>
+<p><img src="$IMS-CC-FILEBASE$/Uploaded%20Media/Screen%20Shot%202021-02-03%20at%2012.12.26%20PM.png" alt="Screen Shot 2021-02-03 at 12.12.26 PM.png" data-api-endpoint="https://asu.instructure.com/api/v1/courses/72316/files/27866094" data-api-returntype="File" loading="lazy"></p>
+<p>&nbsp;</p>
+<p>Q:&nbsp; My medium and large displays don't work</p>
+<p>A:&nbsp; Here is the first thing to check:</p>
+<p>Code in Task 2 (the small display) should be located in the top of the pacific.css file.</p>
+<p>Task 3 code will be next (the medium display)</p>
+<p>Task 4 code will be located in the end. (the large display)</p>
+<p>If we have task 2 code in the end, it will be executed and task 3 and task 4 styles will be overwritten.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

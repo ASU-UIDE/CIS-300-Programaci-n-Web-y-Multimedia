@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<context_info xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <course_id>121273</course_id>
+  <course_name>(Cintana) CIS 300: Web Design and Development</course_name>
+  <root_account_id>72360000000000001</root_account_id>
+  <root_account_name>Arizona State University</root_account_name>
+  <root_account_uuid>nHHP1jS4lnwGPxZv9rfVToTna6MdWBcw5Y1hlepv</root_account_uuid>
+  <canvas_domain>canvas.asu.edu</canvas_domain>
+</context_info>

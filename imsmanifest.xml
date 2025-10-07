@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="gcd783c4809a0f794c12d5c7c125c4827" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.1.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>(Cintana) CIS 300: Web Design and Development</lomimscc:string>
+        </lomimscc:title>
+      </lomimscc:general>
+      <lomimscc:lifeCycle>
+        <lomimscc:contribute>
+          <lomimscc:date>
+            <lomimscc:dateTime>2025-04-16</lomimscc:dateTime>
+          </lomimscc:date>
+        </lomimscc:contribute>
+      </lomimscc:lifeCycle>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>Private (Copyrighted) - http://en.wikipedia.org/wiki/Copyright</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="LearningModules">
+        <item identifier="g8ada65237181b343b6c9c4127d690dc7">
+          <title>Welcome and Start Here</title>
+          <item identifier="g7a8382b6ca6e763cf12749048a2ead54" identifierref="g7c71194d42565de6c3e96474fefb0f39">
+            <title>Welcome and Start Here</title>
+          </item>
+          <item identifier="g7ed9666d682de59151502e17794cafa2">
+            <title> You must view Steps 1-5  and complete the Getting Started Quiz to continue with this course.</title>
+          </item>
+          <item identifier="ga0d0a5242784c3f15e723682dca688a3" identifierref="ga86174892dbc5faf2c066d3cc7875656">
+            <title>Step 1: Understand Academic Integrity in CIS 300 &amp; W. P. Carey Honor Code</title>
+          </item>
+          <item identifier="ge55729d404622e42508738934a37bfe4" identifierref="g848831e9ab07581e008906cc93310ee2">
+            <title>CIS 300 Academic Integrity</title>
+          </item>
+          <item identifier="g2667053f0380141bc40cac3d9e345ed1" identifierref="gfec9f4a78234b3689c307429dc29f59c">
+            <title>W. P. Carey Honor Code</title>
+          </item>
+          <item identifier="g5244162f89bba4bb37f57544f7d5d2e3" identifierref="ge59c5b87dfa2bdc8a84fad5b76b45cb7">
+            <title>ASU Academic Integrity Information</title>
+          </item>
+          <item identifier="gba778dc1128be27c38ece126dddfa19d" identifierref="g139376865bc524e6415d8af5dff1635a">
+            <title>Step 2: Get the Textbook &amp; Setup Your Development Environment</title>
+          </item>
+          <item identifier="g615855a0333c906cf56f578b74679794" identifierref="gf71c455d58a02f12d518f3c55070c44e">
+            <title>Step 3: Software Requirements</title>
+          </item>
+          <item identifier="g4fb95fe5361423ec974c4f1e7652fac9" identifierref="g81cc8ef7679ab6c2f8211b07af2308ff">
+            <title>Step 4: Understand Course Case Study and Project Assignments</title>
+          </item>
+          <item identifier="g300de9e1c87fd441de6335bcefb85b6a" identifierref="gddcbbb4a6843123b9f4ae6e2d638f0ec">
+            <title>Step 5: Understand Course Layout &amp; Read Course Syllabus, Schedule, and FAQ</title>
+          </item>
+          <item identifier="gfd8b360007090e59a2494a952ea0cb63" identifierref="ga42099ed23c9c4846cff6db170cbd256">
+            <title>Getting Started Quiz</title>
+          </item>
+          <item identifier="g6cb9d65f6960e0c3a133149f6933f0c1" identifierref="g89bb86a21375387da180d32cffcf9094">
+            <title>Assignment Helpful Resources</title>
+          </item>
+          <item identifier="gceaa5e1474198858be2375a4484e9e90" identifierref="g19e9cfe5aa866967ce5552f6abbd44e1">
+            <title>Optional Advanced Topics</title>
+          </item>
+          <item identifier="gf389cfe1e125cf518e0adf6a51356238" identifierref="g8c9b9295e6a55f862995297fa71a7e9e">
+            <title>Discussion Board Expectations</title>
+          </item>
+        </item>
+        <item identifier="g7b35d8f8905c0898a2e3617eadd722af">
+          <title>Week 1</title>
+          <item identifier="gd3235ecf3d4ab49332fdbd116c9fdb12">
+            <title>START HERE</title>
+          </item>
+          <item identifier="gaf95b804a688bb47e98c8e91444af48d" identifierref="g0516e79851bfc12875c86bc78d676f3a">
+            <title>Week 1 - Web &amp; HTML Basics</title>
+          </item>
+          <item identifier="gaeca4e811fad3eb30165a93919415774">
+            <title>READ: Assigned chapters</title>
+          </item>
+          <item identifier="ge292a605d2026100593a0738364d5cab">
+            <title>WATCH</title>
+          </item>
+          <item identifier="gda6c31cb159bb3cb92da0bd15d0af0ea" identifierref="ga120eca643097a51f4d38c3d1830a538">
+            <title>Chapter 1 Internet Web Basics</title>
+          </item>
+          <item identifier="gc59adff33be63a2fcbe512f48b7fab0a" identifierref="ge0bca31c25d0749121d1f4d2bbf9e6fd">
+            <title>How the Internet Works in 5 Minutes</title>
+          </item>
+          <item identifier="g331e19b8e21ba3116eb2d667f3d23131" identifierref="gb1ce17d42b3731b4f980e236b2e8b26a">
+            <title>DNS Explained</title>
+          </item>
+          <item identifier="ge7c16c64c6ae0efd7d3ceed12168f331" identifierref="ge73ad47f84ff1a8b638f7ceaa22aad91">
+            <title>A Packet's Tale. How Does the Internet Work?</title>
+          </item>
+          <item identifier="g6f9f16f43bc65549ff1623590d0f515f" identifierref="ge3c6c3dba7a086b913b8c1afdfbab4e6">
+            <title>Chapter 2 HTML Basics</title>
+          </item>
+          <item identifier="g199ad4f2174e7b09617e264e03551b2f" identifierref="g684698638b4107e3080be10184144004">
+            <title>HTML Basics</title>
+          </item>
+          <item identifier="g4dfc4c41f88bd72bd58b13892636a616">
+            <title>COMPLETE</title>
+          </item>
+          <item identifier="g0b6fa69d45efe870f25586225e32d8ae" identifierref="g0df3f1c6b1369715ad2953be1bb894e6">
+            <title>Case Study | Ch2 - Week 1</title>
+          </item>
+          <item identifier="gd08559df07f749dc6c5c6d997ce1df02" identifierref="g963d98fe8ae4305cdc4441aa11eb466a">
+            <title>Quiz | Week 1</title>
+          </item>
+          <item identifier="g2a578d430506ae4759c621fae55b5bc9" identifierref="g66cf45262bbfba3e99867070a6887667">
+            <title>Optional Feedback Survey</title>
+          </item>
+        </item>
+        <item identifier="g1c05e00da2a2c51ee3ff6ece32fdebca">
+          <title>Case Study Solution - release week 2</title>
+          <item identifier="ga08468f3fb9102bea0512af2e886a150" identifierref="g359ad8f8d8f88e24656724ff9e8f6470">
+            <title>Week 1 Case Study Solution</title>
+          </item>
+        </item>
+        <item identifier="g7ab8801ae9fc790ce0d4ea7dec6065f1">
+          <title>Week 2</title>
+          <item identifier="g02b45d9cdf110b2be110f827f4e19db7">
+            <title>START HERE</title>
+          </item>
+          <item identifier="g4e0cc3002368f41ef6c2a9b40b30689a" identifierref="g5120f0ae2e7ba7a71a79e9b52f6e204a">
+            <title>Week 2 - Cascading Style Sheets</title>
+          </item>
+          <item identifier="gc727d2e4b8a6ae691ac8f76deefce014">
+            <title>READ: Assigned chapters</title>
+          </item>
+          <item identifier="gcf3a8b0abcab79dbc4e7928538aee22d">
+            <title>WATCH</title>
+          </item>
+          <item identifier="g23d19eb5d6d51266fb83c6abbdf8ccba" identifierref="gbe8cc5eaa152782b880031203408c1ff">
+            <title>Chapter 3 Web Design Basics</title>
+          </item>
+          <item identifier="g65d80bda842b4cda3ca929e5d54b4fbc" identifierref="g6c80cbc9c4cb4444d19138e04ecbae9b">
+            <title>Chapter 4 Cascading Style Sheets Basics</title>
+          </item>
+          <item identifier="g8bf9cefb301f3e1f5fd82b4860965d5d" identifierref="gc98ed1d4df2eb8c51a7bd7eeed948d0b">
+            <title>CSS Basic Tips</title>
+          </item>
+          <item identifier="gb5849469e8ffa537c9c877683f3afed3">
+            <title>COMPLETE</title>
+          </item>
+          <item identifier="g9e04264ae665c29fb95da17a30996836" identifierref="g4287e17410716fd8d3f17e2b5c69d50a">
+            <title>Case Study | Ch4 - Week 2</title>
+          </item>
+          <item identifier="g5a2beb70e072c015d4aa59cdab361a3c" identifierref="g9b9edf9cae8a0c907a944d8952f870cb">
+            <title>Project | Week 2 - Topic Approval</title>
+          </item>
+          <item identifier="geeab68700395c2c8767621ff2d08e65e" identifierref="g3be8d83d7ec94b8630746d0bac142e91">
+            <title>Quiz | Week 2</title>
+          </item>
+          <item identifier="g043bfeef6aac8f10a5e8611e7c207fa0" identifierref="g17abd1884981e4dacaacde376c057484">
+            <title>Optional Feedback Survey</title>
+          </item>
+        </item>
+        <item identifier="g2a9e29956e9f48217ac4d8aba6e35743">
+          <title>Case Study Solution - release week 3</title>
+          <item identifier="gc863dea1de871d4dd1a4455c838aab02" identifierref="g46c696a81a64abf2663565efc8ee7251">
+            <title>Week 2 Case Study Solution</title>
+          </item>
+        </item>
+        <item identifier="g54477ad1db1973f45e0e3f26805eca56">
+          <title>Week 3</title>
+          <item identifier="g37499dff498c5c9bb8c4edd9de7d26b2">
+            <title>START HERE</title>
+          </item>
+          <item identifier="gb080894f7e66598b2157fc2860b4d487" identifierref="gd187d9603d811e0c0f9c93f9cd478e05">
+            <title>Week 3 - Graphics &amp; Text Styling</title>
+          </item>
+          <item identifier="g208e961fa67479b2f24f20f290622fc7">
+            <title>READ: Assigned chapters</title>
+          </item>
+          <item identifier="gc2c70e18330d5f3a50328004986ba4d1">
+            <title>WATCH</title>
+          </item>
+          <item identifier="g8411ac35bd84dd70694e737c61f3c1e6" identifierref="gc7a0c3ed089cdf552032c8d0b5a85960">
+            <title>Chapter 5 Graphics &amp; Text Styling Basics</title>
+          </item>
+          <item identifier="gf10a34fea2f378b91d6dbe00360eb026" identifierref="g28868bb2212edb0a92c4cda9e81646b3">
+            <title>Chapter 6 More CSS Basics</title>
+          </item>
+          <item identifier="ge9e76acf8b25d71174239d8631a362c8" identifierref="g0435a29f9050f3eb78abdaf2f24ff370">
+            <title>Add Images</title>
+          </item>
+          <item identifier="g2f8449f6ff0c390634e30e98570a1752" identifierref="gfa03d0076c131641ae09f99ad57337fe">
+            <title>The Box Model</title>
+          </item>
+          <item identifier="gc9393addb9b351b3dbd6d8b778d95816">
+            <title>COMPLETE</title>
+          </item>
+          <item identifier="g204f567c18d9418ce5aaa6003af79b24" identifierref="ge95ad4db913f3c97667cccd937798573">
+            <title>Case Study | Ch6 - Week 3</title>
+          </item>
+          <item identifier="ga945e8816abf3deab5d5821113bfc9a4" identifierref="g3540a11e4e1deb4412c90652c998350b">
+            <title>Project | Week 3 - Planning Analysis Sheet</title>
+          </item>
+          <item identifier="g628c0034d6cd4334f714ceb3864054c2" identifierref="g744e4e5e2ef6015363dd3599cdaa6efe">
+            <title>Quiz | Week 3</title>
+          </item>
+        </item>
+        <item identifier="g7de8060e7f1d3c8337046eb266f042f2">
+          <title>Case Study Solution - release week 4</title>
+          <item identifier="g2b51dee8d7a2054118cc28734d2dc1f3" identifierref="g3a81d887db51ea3b27870ab40f2c8fbb">
+            <title>Week 3 Case Study Solution</title>
+          </item>
+        </item>
+        <item identifier="gb5b87d0b8bd5f856ea6ac1ebef92de4b">
+          <title>Week 4</title>
+          <item identifier="g23748f81dbd56f4da2f65e5fb00bfb15">
+            <title>START HERE</title>
+          </item>
+          <item identifier="g624d3f685bd031d924c650f6feb27d9d" identifierref="gcd91b728fed08f8d392a287f2bcf5aa8">
+            <title>Week 4 - Links, Layouts, and Mobile </title>
+          </item>
+          <item identifier="g1463b8a49d7883a66758c6cde76d4f4d">
+            <title>READ: Assigned chapters</title>
+          </item>
+          <item identifier="gd2925efcea3b8d4a550d0c39f23c02d7">
+            <title>WATCH</title>
+          </item>
+          <item identifier="gc3e6aaacb9631aa8aff0cc7809eae1d6" identifierref="g463cc17de21533567b90db8b20f38766">
+            <title>Chapter 7 Page Layout Basics</title>
+          </item>
+          <item identifier="g6112140c0e125a75bfe314ae221e0544" identifierref="gc006f5c26dee08637d75465ae27f3b1a">
+            <title>Chapter 8 More on Links, Layout, and Mobile</title>
+          </item>
+          <item identifier="g60e744b4fef0c25eb8113f14a7b11b19" identifierref="g1b3c194f4bbce626eaf310becd2ba866">
+            <title>Layout.mp4</title>
+          </item>
+          <item identifier="g4ebb4430194b53522e2fc3dc39eaf4ce">
+            <title>COMPLETE</title>
+          </item>
+          <item identifier="g0212a0560938018fd9d9fe46f1526152" identifierref="g172a8c1158f8e2acb38f755442983ddf">
+            <title>Case Study | Ch8 - Week 4</title>
+          </item>
+          <item identifier="g1ce39d6445f6ede63420feb9c37fa76d" identifierref="ge08191c7e3b521ee6c9c32f842bcfcfc">
+            <title>Project | Week 4 - Site Map</title>
+          </item>
+          <item identifier="g6a4b6c79ed1d6f9bae2ee3f649141cb5" identifierref="gedebfa395667eba93ebe7015519f4106">
+            <title>Project | Week 4 - Page Layout Design</title>
+          </item>
+          <item identifier="gca4b16ddd77151671688bda70cdcb577" identifierref="ga72cbaa98d48e541ab87920b834ee456">
+            <title>Quiz | Week 4</title>
+          </item>
+        </item>
+        <item identifier="g5710e5ae43dc76e2fa80c54fc3078ba8">
+          <title>Case Study Solution - release week 5</title>
+          <item identifier="g17094219d30cb54fdd311e27c1184b57" identifierref="ga8850ca5b50c0996d1749ecbc56dbd38">
+            <title>Week 4 Case Study Solution</title>
+          </item>
+        </item>
+        <item identifier="g6150d6bbea568ecf0a8ed8ef38769e4a">
+          <title>Week 5</title>
+          <item identifier="gd7415767cfd8a5e229f12d3eac02af26">
+            <title>START HERE</title>
+          </item>
+          <item identifier="g61c6e61708c9775333cd742205a4c5c6" identifierref="ga0f65af5e21aefc68000ace107340ba9">
+            <title>Week 5 - Tables &amp; Forms</title>
+          </item>
+          <item identifier="g2bc5ee0f727d9626f2a67b50ddfe8ecf">
+            <title>READ: Assigned chapters</title>
+          </item>
+          <item identifier="gc635b926bac8d43a34d961c9aced2f51">
+            <title>WATCH</title>
+          </item>
+          <item identifier="g52b1b5e61b29c60ede87ab6e0c94fe6f" identifierref="gc59452330772a82eea5841a91a3a0193">
+            <title>Chapter 9 Table Basics</title>
+          </item>
+          <item identifier="g7cf5c87959a8a6be01eb858ac8f460ab" identifierref="g82a45a2d57cc9c99b47459712a1044a2">
+            <title>Chapter 10 Form Basics</title>
+          </item>
+          <item identifier="g591dc891c08b7f5eb1a8fdcb7e7a1d8c">
+            <title>COMPLETE</title>
+          </item>
+          <item identifier="ga5f929afa22145875e96ae9825c7a0f0" identifierref="g16846c71fd68451556171f2dc02f94ad">
+            <title>Case Study | Ch10 - Week 5</title>
+          </item>
+          <item identifier="g567b37d508538bf6c723a377f9c911d7" identifierref="gb2e19c03ec44a44c5ebbab06378415e4">
+            <title>Project | Week 5 - Update #1</title>
+          </item>
+          <item identifier="g5be7ebb3fa44ecf36db45ee7011433b1" identifierref="g3165fdc11b88af823ca78bee9f89e5a3">
+            <title>Quiz | Week 5</title>
+          </item>
+        </item>
+        <item identifier="g2ef526279e5e783f3ed692f07f64613e">
+          <title>Case Study Solution - release week 6</title>
+          <item identifier="g666c0274680b5ada9be43e6eb0fde486" identifierref="gdd402ff6a0ac412ac52f23c0e63d1d3b">
+            <title>Week 5 Case Study Solution</title>
+          </item>
+        </item>
+        <item identifier="g180b4e015f9d3ecb238c782e21ccf78d">
+          <title>Week 6</title>
+          <item identifier="g86948e0c96239eb7e4d6b1d4890719f8">
+            <title>START HERE</title>
+          </item>
+          <item identifier="ga0cc02764ffbc1b7a75b598a34d99810" identifierref="g6cb645ab7cfb8bebb03dc6ffabae3d30">
+            <title>Week 6 - Media, Interactivity &amp; Web Publishing</title>
+          </item>
+          <item identifier="g4f81c071d490584795b0cf790498d08a">
+            <title>READ: Assigned chapters</title>
+          </item>
+          <item identifier="g112b1ae2a25c2c586143a1f38420896a">
+            <title>WATCH</title>
+          </item>
+          <item identifier="gf4ef1e190dc4e7f883279c01b533ac47" identifierref="g639dadef04d1f77940133ceb4b78a6a1">
+            <title>Chapter 11 Media and Interactivity Basics</title>
+          </item>
+          <item identifier="g2ee79646be846b7abdc5c19aae0c8afb" identifierref="ge37e125710566fb5ae235e0fe9ffe2a2">
+            <title>Chapter 12 Web Publishing Basics</title>
+          </item>
+          <item identifier="g53dde8aa5ea210bfe22e99595aa38eb6" identifierref="g19e9cfe5aa866967ce5552f6abbd44e1">
+            <title>Optional Advanced Topics</title>
+          </item>
+          <item identifier="g793b5cfb2c2e710b983bff0765035555" identifierref="g2edd87244e1d33b42ad688b5a3bf6ada">
+            <title>Getting Online (Optional) </title>
+          </item>
+          <item identifier="g7fef80107c2bfe950be8baee218c14a3">
+            <title>COMPLETE</title>
+          </item>
+          <item identifier="g3eb4d40ba466168c0d341303b3735dc5" identifierref="g85d57447171ed4f542257e33d3cf405c">
+            <title>Case Study | Ch12 - Week 6</title>
+          </item>
+          <item identifier="g6cee03bd14218e93ae2b500170479ce8" identifierref="g07451a1b9fa0538f1418dde417ad1507">
+            <title>Project | Week 6 - Update #2</title>
+          </item>
+          <item identifier="g2c1b85d3f6c49de19f3ee8469e7da873" identifierref="g74ffe12547382713c8397863825300a5">
+            <title>Quiz | Week 6</title>
+          </item>
+        </item>
+        <item identifier="gc1fb3e14904a25fac869e6baef3c8b63">
+          <title>Week 7</title>
+          <item identifier="gd214e2fbea5f5bd8ad518f6fa7af9dd0">
+            <title>START HERE</title>
+          </item>
+          <item identifier="g4864867655e32d592fd9e5da8cd2a520" identifierref="g883ec832376de2fdcdc19c72b08e89ad">
+            <title>Week 7 - Final Project </title>
+          </item>
+          <item identifier="gc41a94a16dd35c29e33dc00ac8083f3c">
+            <title>COMPLETE</title>
+          </item>
+          <item identifier="gb9195f906d8119d28efc14b188cdcbf4" identifierref="g4686d4daaa0616c541b27f7f2fe6e145">
+            <title>Project | Final Project</title>
+          </item>
+        </item>
+        <item identifier="g606bfec4b10f785032b2807d5a2d2b2a">
+          <title>FAQ</title>
+          <item identifier="gebb4aa9d874358712deb55aeaaecfb72" identifierref="g4c59c77ae7f50a3e0611da1e6cfeb616">
+            <title>Do I need the textbook?</title>
+          </item>
+          <item identifier="g3d150caacefdd8ecd19d09c84b7f518a" identifierref="g4c360844424c3a9ce1d668c8ce478858">
+            <title>Windows or a Mac?</title>
+          </item>
+          <item identifier="g0dc728c574606b73dda4d8e9c3f2c20b" identifierref="g1ffe06f6edc09ef5c43ef967ac001470">
+            <title>How to create a html file?</title>
+          </item>
+          <item identifier="g182c9483ad0e0658325d924d0e1afd02" identifierref="gc0f574b2980c8c3027df57f3ef80b4a9">
+            <title>How to submit the case study assignments?</title>
+          </item>
+          <item identifier="ge1b0cf6db733f5bc6be5b74ac42e794b" identifierref="g834b35a41095b35adf0127d808a7fcbe">
+            <title>How do I  check if the assignment zipped file is correct?</title>
+          </item>
+          <item identifier="ga6a2808d572600c426c6104e94acacf8" identifierref="g95e2d13e3da08f04fbbcf0b2a9c46cef">
+            <title>What format is accepted for submitting case study assignments?</title>
+          </item>
+          <item identifier="g5e028e74071e183c7269b2c9a7fbc610" identifierref="g996db9adba02bb75ff90bcc30d34d8cf">
+            <title>Where can I find the image and video files needed for the case study assignments?</title>
+          </item>
+          <item identifier="g5dc5d278887cacdae738e30e9c0460b5" identifierref="g7371ffae50ddba7f4e60afaaacfeaf10">
+            <title>What to do when I run into problems?</title>
+          </item>
+          <item identifier="gd6cdf1ed5d8068a29099786a02c160b7" identifierref="g98d5302a48fef91e9b0d5fdadcea8216">
+            <title>Week 4 Assignment FAQ</title>
+          </item>
+          <item identifier="g0ef5acdd768e7deaa53309e3abac1490" identifierref="g540cce57669db9dfeb589ff7df9e0563">
+            <title>Can I include a YouTube video in the project assignment?</title>
+          </item>
+          <item identifier="ge7d000fe3b49de8a2661626e646e7a4f" identifierref="g9a94e632043b62709d1656685b4ee804">
+            <title>Do I need to zip the project word document?</title>
+          </item>
+          <item identifier="g7b4acef4c8a4d57e748ca3522df9f019" identifierref="g7c4cfd99817ebd9653713e5508c97b61">
+            <title>Canvas has no responses to Last Week Final Project Submission</title>
+          </item>
+          <item identifier="gd6aacbf75e8c4f351441c81bcd9c0c6e" identifierref="g83dd55dc698aea99ba7fe0bcabd0c498">
+            <title>CIS300-Developer Tools for Troubleshooting.mp4</title>
+          </item>
+        </item>
+        <item identifier="g96b56c07a128a80c4f48dde81a44ab65">
+          <title>Student Canvas Orientation</title>
+          <item identifier="g5480e25856e0937033845aeb284a6edb">
+            <title>GETTING STARTED</title>
+          </item>
+          <item identifier="g56bf0c050ba9c213f5a66176b6f4171a" identifierref="g1be808d1b997d65589487e028d59038b">
+            <title>Canvas Student Orientation</title>
+          </item>
+          <item identifier="g9be370985a41d14196a141c6361334e2" identifierref="gc19623d74e4184191bbdab81257b7d99">
+            <title>Access Canvas</title>
+          </item>
+          <item identifier="ga8635c38c5394c318d4d875d367ce873" identifierref="g41d6379107a0826a86ac70735f8a9367">
+            <title>Explore the Canvas Interface</title>
+          </item>
+          <item identifier="g0fb8187de6c08a76a26d25ccacb00c3d" identifierref="g5c3cc803d69e982c5f6e28583bf39e2a">
+            <title>Update Account Settings and Notification Preferences</title>
+          </item>
+          <item identifier="gcf52e5237cec7e09f92f8057aff7a25e" identifierref="g1f9c7a0a860f114e2f9dfc116af088ea">
+            <title>Read the Syllabus</title>
+          </item>
+          <item identifier="g54c49b0835af9c2f283dfb9d640e2181">
+            <title>PARTICIPATING IN THE COURSE</title>
+          </item>
+          <item identifier="g02321207b3a2984e87d5c82e5274315c" identifierref="gcfc61a85a3e4b4d19a5e18b80f1e4a32">
+            <title>Participate in your Group</title>
+          </item>
+          <item identifier="g06bf6178addb21303b7256a83a684801" identifierref="g3682b0591f98543e3c9e49e09f4a092a">
+            <title>Check the Calendar</title>
+          </item>
+          <item identifier="gefb58b420a4388032914ed938d53c506" identifierref="g64b7f53fe5798c254c07cf24bc8d808c">
+            <title>Navigate Modules</title>
+          </item>
+          <item identifier="ga9cbacbe00e1168d16cca28ab86bde94" identifierref="g264b55e840e9e06c549670c632608c71">
+            <title>Turn in an Assignment</title>
+          </item>
+          <item identifier="ge2d36c8a229aa45ff7f9112f4483aada" identifierref="g9bb58741d98c7d3c2a0c6dbedf97cb8f">
+            <title>Take a Quiz</title>
+          </item>
+          <item identifier="g6496919cbd54aa1752a1f19217da5fb4">
+            <title>GETTING HELP</title>
+          </item>
+          <item identifier="gab396b06b153890517ad2aaf54c2a46f" identifierref="g2fe90cfdc8516443b8ee6b8dc66359da">
+            <title>Get Help</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="g430eb3b4611a9a04f777c05883917aab_syllabus" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/syllabus.html" intendeduse="syllabus">
+      <file href="course_settings/syllabus.html"/>
+    </resource>
+    <resource identifier="g430eb3b4611a9a04f777c05883917aab" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/canvas_export.txt">
+      <file href="course_settings/course_settings.xml"/>
+      <file href="course_settings/module_meta.xml"/>
+      <file href="course_settings/assignment_groups.xml"/>
+      <file href="course_settings/grading_standards.xml"/>
+      <file href="course_settings/rubrics.xml"/>
+      <file href="course_settings/files_meta.xml"/>
+      <file href="course_settings/late_policy.xml"/>
+      <file href="course_settings/context.xml"/>
+      <file href="course_settings/media_tracks.xml"/>
+      <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="g2bc8169e6d81cfa8ab2215ac6a01e529" type="webcontent" href="wiki_content/use-notepad++-for-windows.html">
+      <file href="wiki_content/use-notepad++-for-windows.html"/>
+    </resource>
+    <resource identifier="g9d157acf3f5c4858e4327a3d3e4a4161" type="webcontent" href="wiki_content/course-home.html">
+      <file href="wiki_content/course-home.html"/>
+    </resource>
+    <resource identifier="g46c696a81a64abf2663565efc8ee7251" type="webcontent" href="wiki_content/week-2-case-study-solution.html">
+      <file href="wiki_content/week-2-case-study-solution.html"/>
+    </resource>
+    <resource identifier="gc19623d74e4184191bbdab81257b7d99" type="webcontent" href="wiki_content/access-canvas.html">
+      <file href="wiki_content/access-canvas.html"/>
+    </resource>
+    <resource identifier="g463cc17de21533567b90db8b20f38766" type="webcontent" href="wiki_content/chapter-7-page-layout-basics.html">
+      <file href="wiki_content/chapter-7-page-layout-basics.html"/>
+    </resource>
+    <resource identifier="g9bb58741d98c7d3c2a0c6dbedf97cb8f" type="webcontent" href="wiki_content/take-a-quiz.html">
+      <file href="wiki_content/take-a-quiz.html"/>
+    </resource>
+    <resource identifier="g28868bb2212edb0a92c4cda9e81646b3" type="webcontent" href="wiki_content/chapter-6-more-css-basics.html">
+      <file href="wiki_content/chapter-6-more-css-basics.html"/>
+    </resource>
+    <resource identifier="ge59c5b87dfa2bdc8a84fad5b76b45cb7" type="webcontent" href="wiki_content/asu-academic-integrity-information.html">
+      <file href="wiki_content/asu-academic-integrity-information.html"/>
+    </resource>
+    <resource identifier="g9a94e632043b62709d1656685b4ee804" type="webcontent" href="wiki_content/do-i-need-to-zip-the-project-word-document.html">
+      <file href="wiki_content/do-i-need-to-zip-the-project-word-document.html"/>
+    </resource>
+    <resource identifier="g39655a1cbcd5a13bbd093b69c168e629" type="webcontent" href="wiki_content/getting-started.html">
+      <file href="wiki_content/getting-started.html"/>
+    </resource>
+    <resource identifier="g89bb86a21375387da180d32cffcf9094" type="webcontent" href="wiki_content/assignment-helpful-resources.html">
+      <file href="wiki_content/assignment-helpful-resources.html"/>
+    </resource>
+    <resource identifier="ga0f65af5e21aefc68000ace107340ba9" type="webcontent" href="wiki_content/week-5-tables-and-forms.html">
+      <file href="wiki_content/week-5-tables-and-forms.html"/>
+    </resource>
+    <resource identifier="g64b7f53fe5798c254c07cf24bc8d808c" type="webcontent" href="wiki_content/navigate-modules.html">
+      <file href="wiki_content/navigate-modules.html"/>
+    </resource>
+    <resource identifier="g19e9cfe5aa866967ce5552f6abbd44e1" type="webcontent" href="wiki_content/optional-advanced-topics.html">
+      <file href="wiki_content/optional-advanced-topics.html"/>
+    </resource>
+    <resource identifier="g5c3cc803d69e982c5f6e28583bf39e2a" type="webcontent" href="wiki_content/update-account-settings-and-notification-preferences.html">
+      <file href="wiki_content/update-account-settings-and-notification-preferences.html"/>
+    </resource>
+    <resource identifier="g4c59c77ae7f50a3e0611da1e6cfeb616" type="webcontent" href="wiki_content/do-i-need-the-textbook.html">
+      <file href="wiki_content/do-i-need-the-textbook.html"/>
+    </resource>
+    <resource identifier="g2fe90cfdc8516443b8ee6b8dc66359da" type="webcontent" href="wiki_content/get-help.html">
+      <file href="wiki_content/get-help.html"/>
+    </resource>
+    <resource identifier="g1be808d1b997d65589487e028d59038b" type="webcontent" href="wiki_content/canvas-student-orientation.html">
+      <file href="wiki_content/canvas-student-orientation.html"/>
+    </resource>
+    <resource identifier="gfec9f4a78234b3689c307429dc29f59c" type="webcontent" href="wiki_content/w-p-carey-honor-code.html">
+      <file href="wiki_content/w-p-carey-honor-code.html"/>
+    </resource>
+    <resource identifier="g3682b0591f98543e3c9e49e09f4a092a" type="webcontent" href="wiki_content/check-the-calendar.html">
+      <file href="wiki_content/check-the-calendar.html"/>
+    </resource>
+    <resource identifier="gf71c455d58a02f12d518f3c55070c44e" type="webcontent" href="wiki_content/step-3-software-requirements.html">
+      <file href="wiki_content/step-3-software-requirements.html"/>
+    </resource>
+    <resource identifier="g264b55e840e9e06c549670c632608c71" type="webcontent" href="wiki_content/turn-in-an-assignment.html">
+      <file href="wiki_content/turn-in-an-assignment.html"/>
+    </resource>
+    <resource identifier="g6cb645ab7cfb8bebb03dc6ffabae3d30" type="webcontent" href="wiki_content/week-6-media-interactivity-and-web-publishing.html">
+      <file href="wiki_content/week-6-media-interactivity-and-web-publishing.html"/>
+    </resource>
+    <resource identifier="g0435a29f9050f3eb78abdaf2f24ff370" type="webcontent" href="wiki_content/add-images.html">
+      <file href="wiki_content/add-images.html"/>
+    </resource>
+    <resource identifier="g6c80cbc9c4cb4444d19138e04ecbae9b" type="webcontent" href="wiki_content/chapter-4-cascading-style-sheets-basics.html">
+      <file href="wiki_content/chapter-4-cascading-style-sheets-basics.html"/>
+    </resource>
+    <resource identifier="gfa03d0076c131641ae09f99ad57337fe" type="webcontent" href="wiki_content/the-box-model.html">
+      <file href="wiki_content/the-box-model.html"/>
+    </resource>
+    <resource identifier="gc7a0c3ed089cdf552032c8d0b5a85960" type="webcontent" href="wiki_content/chapter-5-graphics-and-text-styling-basics.html">
+      <file href="wiki_content/chapter-5-graphics-and-text-styling-basics.html"/>
+    </resource>
+    <resource identifier="gbe8cc5eaa152782b880031203408c1ff" type="webcontent" href="wiki_content/chapter-3-web-design-basics.html">
+      <file href="wiki_content/chapter-3-web-design-basics.html"/>
+    </resource>
+    <resource identifier="gd187d9603d811e0c0f9c93f9cd478e05" type="webcontent" href="wiki_content/week-3-graphics-and-text-styling.html">
+      <file href="wiki_content/week-3-graphics-and-text-styling.html"/>
+    </resource>
+    <resource identifier="g2cb6da29616a133c09ab4180627204e4" type="webcontent" href="wiki_content/capture-data-entered-in-a-form.html">
+      <file href="wiki_content/capture-data-entered-in-a-form.html"/>
+    </resource>
+    <resource identifier="g41d6379107a0826a86ac70735f8a9367" type="webcontent" href="wiki_content/explore-the-canvas-interface.html">
+      <file href="wiki_content/explore-the-canvas-interface.html"/>
+    </resource>
+    <resource identifier="g7c4cfd99817ebd9653713e5508c97b61" type="webcontent" href="wiki_content/canvas-has-no-responses-to-last-week-final-project-submission.html">
+      <file href="wiki_content/canvas-has-no-responses-to-last-week-final-project-submission.html"/>
+    </resource>
+    <resource identifier="g7371ffae50ddba7f4e60afaaacfeaf10" type="webcontent" href="wiki_content/what-to-do-when-i-run-into-problems.html">
+      <file href="wiki_content/what-to-do-when-i-run-into-problems.html"/>
+    </resource>
+    <resource identifier="gc0f574b2980c8c3027df57f3ef80b4a9" type="webcontent" href="wiki_content/how-to-submit-the-case-study-assignments.html">
+      <file href="wiki_content/how-to-submit-the-case-study-assignments.html"/>
+    </resource>
+    <resource identifier="g8c9b9295e6a55f862995297fa71a7e9e" type="webcontent" href="wiki_content/discussion-board-expectations.html">
+      <file href="wiki_content/discussion-board-expectations.html"/>
+    </resource>
+    <resource identifier="g996db9adba02bb75ff90bcc30d34d8cf" type="webcontent" href="wiki_content/where-can-i-find-the-image-and-video-files-needed-for-the-case-study-assignments.html">
+      <file href="wiki_content/where-can-i-find-the-image-and-video-files-needed-for-the-case-study-assignments.html"/>
+    </resource>
+    <resource identifier="g4c360844424c3a9ce1d668c8ce478858" type="webcontent" href="wiki_content/windows-or-a-mac.html">
+      <file href="wiki_content/windows-or-a-mac.html"/>
+    </resource>
+    <resource identifier="ge3c6c3dba7a086b913b8c1afdfbab4e6" type="webcontent" href="wiki_content/chapter-2-html-basics.html">
+      <file href="wiki_content/chapter-2-html-basics.html"/>
+    </resource>
+    <resource identifier="g143ec76b8712452827c6753a08b3ee0e" type="webcontent" href="wiki_content/download-student-resource-files.html">
+      <file href="wiki_content/download-student-resource-files.html"/>
+    </resource>
+    <resource identifier="g540cce57669db9dfeb589ff7df9e0563" type="webcontent" href="wiki_content/can-i-include-a-youtube-video-in-the-project-assignment.html">
+      <file href="wiki_content/can-i-include-a-youtube-video-in-the-project-assignment.html"/>
+    </resource>
+    <resource identifier="g5120f0ae2e7ba7a71a79e9b52f6e204a" type="webcontent" href="wiki_content/week-2-cascading-style-sheets.html">
+      <file href="wiki_content/week-2-cascading-style-sheets.html"/>
+    </resource>
+    <resource identifier="ga86174892dbc5faf2c066d3cc7875656" type="webcontent" href="wiki_content/step-1-understand-academic-integrity-in-cis-300-and-w-p-carey-honor-code.html">
+      <file href="wiki_content/step-1-understand-academic-integrity-in-cis-300-and-w-p-carey-honor-code.html"/>
+    </resource>
+    <resource identifier="g3a81d887db51ea3b27870ab40f2c8fbb" type="webcontent" href="wiki_content/week-3-case-study-solution.html">
+      <file href="wiki_content/week-3-case-study-solution.html"/>
+    </resource>
+    <resource identifier="g883ec832376de2fdcdc19c72b08e89ad" type="webcontent" href="wiki_content/week-7-final-project.html">
+      <file href="wiki_content/week-7-final-project.html"/>
+    </resource>
+    <resource identifier="gc006f5c26dee08637d75465ae27f3b1a" type="webcontent" href="wiki_content/chapter-8-more-on-links-layout-and-mobile.html">
+      <file href="wiki_content/chapter-8-more-on-links-layout-and-mobile.html"/>
+    </resource>
+    <resource identifier="gdd1bb064b82107e11ea9fe2afdafa1be" type="webcontent" href="wiki_content/1-video-template.html">
+      <file href="wiki_content/1-video-template.html"/>
+    </resource>
+    <resource identifier="g0516e79851bfc12875c86bc78d676f3a" type="webcontent" href="wiki_content/week-1-web-and-html-basics.html">
+      <file href="wiki_content/week-1-web-and-html-basics.html"/>
+    </resource>
+    <resource identifier="g1ffe06f6edc09ef5c43ef967ac001470" type="webcontent" href="wiki_content/how-to-create-a-html-file.html">
+      <file href="wiki_content/how-to-create-a-html-file.html"/>
+    </resource>
+    <resource identifier="g2edd87244e1d33b42ad688b5a3bf6ada" type="webcontent" href="wiki_content/getting-online-optional.html">
+      <file href="wiki_content/getting-online-optional.html"/>
+    </resource>
+    <resource identifier="ge37e125710566fb5ae235e0fe9ffe2a2" type="webcontent" href="wiki_content/chapter-12-web-publishing-basics.html">
+      <file href="wiki_content/chapter-12-web-publishing-basics.html"/>
+    </resource>
+    <resource identifier="gc59452330772a82eea5841a91a3a0193" type="webcontent" href="wiki_content/chapter-9-table-basics.html">
+      <file href="wiki_content/chapter-9-table-basics.html"/>
+    </resource>
+    <resource identifier="g1ff67c8b131cf912fc39d57a05e3cb7c" type="webcontent" href="wiki_content/course-faq.html">
+      <file href="wiki_content/course-faq.html"/>
+    </resource>
+    <resource identifier="g95e2d13e3da08f04fbbcf0b2a9c46cef" type="webcontent" href="wiki_content/what-format-is-accepted-for-submitting-case-study-assignments.html">
+      <file href="wiki_content/what-format-is-accepted-for-submitting-case-study-assignments.html"/>
+    </resource>
+    <resource identifier="gcfc61a85a3e4b4d19a5e18b80f1e4a32" type="webcontent" href="wiki_content/participate-in-your-group.html">
+      <file href="wiki_content/participate-in-your-group.html"/>
+    </resource>
+    <resource identifier="g834b35a41095b35adf0127d808a7fcbe" type="webcontent" href="wiki_content/how-do-i-check-if-the-assignment-zipped-file-is-correct.html">
+      <file href="wiki_content/how-do-i-check-if-the-assignment-zipped-file-is-correct.html"/>
+    </resource>
+    <resource identifier="ga8850ca5b50c0996d1749ecbc56dbd38" type="webcontent" href="wiki_content/week-4-case-study-solution.html">
+      <file href="wiki_content/week-4-case-study-solution.html"/>
+    </resource>
+    <resource identifier="g1f9c7a0a860f114e2f9dfc116af088ea" type="webcontent" href="wiki_content/read-the-syllabus.html">
+      <file href="wiki_content/read-the-syllabus.html"/>
+    </resource>
+    <resource identifier="g3c0e5d8811fcb013b945c8370e403282" type="webcontent" href="wiki_content/embedded-google-calendar-to-your-website.html">
+      <file href="wiki_content/embedded-google-calendar-to-your-website.html"/>
+    </resource>
+    <resource identifier="gcd91b728fed08f8d392a287f2bcf5aa8" type="webcontent" href="wiki_content/week-4-links-layouts-and-mobile.html">
+      <file href="wiki_content/week-4-links-layouts-and-mobile.html"/>
+    </resource>
+    <resource identifier="g639dadef04d1f77940133ceb4b78a6a1" type="webcontent" href="wiki_content/chapter-11-media-and-interactivity-basics.html">
+      <file href="wiki_content/chapter-11-media-and-interactivity-basics.html"/>
+    </resource>
+    <resource identifier="gc98ed1d4df2eb8c51a7bd7eeed948d0b" type="webcontent" href="wiki_content/css-basic-tips.html">
+      <file href="wiki_content/css-basic-tips.html"/>
+    </resource>
+    <resource identifier="g82a45a2d57cc9c99b47459712a1044a2" type="webcontent" href="wiki_content/chapter-10-form-basics.html">
+      <file href="wiki_content/chapter-10-form-basics.html"/>
+    </resource>
+    <resource identifier="ga120eca643097a51f4d38c3d1830a538" type="webcontent" href="wiki_content/chapter-1-internet-web-basics.html">
+      <file href="wiki_content/chapter-1-internet-web-basics.html"/>
+    </resource>
+    <resource identifier="g7c71194d42565de6c3e96474fefb0f39" type="webcontent" href="wiki_content/welcome-and-start-here.html">
+      <file href="wiki_content/welcome-and-start-here.html"/>
+    </resource>
+    <resource identifier="g98d5302a48fef91e9b0d5fdadcea8216" type="webcontent" href="wiki_content/week-4-assignment-faq.html">
+      <file href="wiki_content/week-4-assignment-faq.html"/>
+    </resource>
+    <resource identifier="g139376865bc524e6415d8af5dff1635a" type="webcontent" href="wiki_content/step-2-get-the-textbook-and-setup-your-development-environment.html">
+      <file href="wiki_content/step-2-get-the-textbook-and-setup-your-development-environment.html"/>
+    </resource>
+    <resource identifier="g359ad8f8d8f88e24656724ff9e8f6470" type="webcontent" href="wiki_content/week-1-case-study-solution.html">
+      <file href="wiki_content/week-1-case-study-solution.html"/>
+    </resource>
+    <resource identifier="g684698638b4107e3080be10184144004" type="webcontent" href="wiki_content/html-basics.html">
+      <file href="wiki_content/html-basics.html"/>
+    </resource>
+    <resource identifier="gdd402ff6a0ac412ac52f23c0e63d1d3b" type="webcontent" href="wiki_content/week-5-case-study-solution.html">
+      <file href="wiki_content/week-5-case-study-solution.html"/>
+    </resource>
+    <resource identifier="gddcbbb4a6843123b9f4ae6e2d638f0ec" type="webcontent" href="wiki_content/step-5-understand-course-layout-and-read-course-syllabus-schedule-and-faq.html">
+      <file href="wiki_content/step-5-understand-course-layout-and-read-course-syllabus-schedule-and-faq.html"/>
+    </resource>
+    <resource identifier="g848831e9ab07581e008906cc93310ee2" type="webcontent" href="wiki_content/cis-300-academic-integrity.html">
+      <file href="wiki_content/cis-300-academic-integrity.html"/>
+    </resource>
+    <resource identifier="g81cc8ef7679ab6c2f8211b07af2308ff" type="webcontent" href="wiki_content/step-4-understand-course-case-study-and-project-assignments.html">
+      <file href="wiki_content/step-4-understand-course-case-study-and-project-assignments.html"/>
+    </resource>
+    <resource identifier="g9298b3302aefe68bc37cb7fd40bcc042" type="webcontent" href="wiki_content/use-sublime-text-3-for-mac.html">
+      <file href="wiki_content/use-sublime-text-3-for-mac.html"/>
+    </resource>
+    <resource identifier="g16846c71fd68451556171f2dc02f94ad" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g16846c71fd68451556171f2dc02f94ad/case-study-|-ch10-week-5.html">
+      <file href="g16846c71fd68451556171f2dc02f94ad/case-study-|-ch10-week-5.html"/>
+      <file href="g16846c71fd68451556171f2dc02f94ad/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g85d57447171ed4f542257e33d3cf405c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g85d57447171ed4f542257e33d3cf405c/case-study-|-ch12-week-6.html">
+      <file href="g85d57447171ed4f542257e33d3cf405c/case-study-|-ch12-week-6.html"/>
+      <file href="g85d57447171ed4f542257e33d3cf405c/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g0df3f1c6b1369715ad2953be1bb894e6" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g0df3f1c6b1369715ad2953be1bb894e6/case-study-|-ch2-week-1.html">
+      <file href="g0df3f1c6b1369715ad2953be1bb894e6/case-study-|-ch2-week-1.html"/>
+      <file href="g0df3f1c6b1369715ad2953be1bb894e6/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g4287e17410716fd8d3f17e2b5c69d50a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4287e17410716fd8d3f17e2b5c69d50a/case-study-|-ch4-week-2.html">
+      <file href="g4287e17410716fd8d3f17e2b5c69d50a/case-study-|-ch4-week-2.html"/>
+      <file href="g4287e17410716fd8d3f17e2b5c69d50a/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ge95ad4db913f3c97667cccd937798573" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge95ad4db913f3c97667cccd937798573/case-study-|-ch6-week-3.html">
+      <file href="ge95ad4db913f3c97667cccd937798573/case-study-|-ch6-week-3.html"/>
+      <file href="ge95ad4db913f3c97667cccd937798573/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g172a8c1158f8e2acb38f755442983ddf" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g172a8c1158f8e2acb38f755442983ddf/case-study-|-ch8-week-4.html">
+      <file href="g172a8c1158f8e2acb38f755442983ddf/case-study-|-ch8-week-4.html"/>
+      <file href="g172a8c1158f8e2acb38f755442983ddf/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g15470fcffb7602df43bebb3bd489fe18" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g15470fcffb7602df43bebb3bd489fe18/extra-credit-survey.html">
+      <file href="g15470fcffb7602df43bebb3bd489fe18/extra-credit-survey.html"/>
+      <file href="g15470fcffb7602df43bebb3bd489fe18/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g4686d4daaa0616c541b27f7f2fe6e145" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4686d4daaa0616c541b27f7f2fe6e145/project-|-final-project.html">
+      <file href="g4686d4daaa0616c541b27f7f2fe6e145/project-|-final-project.html"/>
+      <file href="g4686d4daaa0616c541b27f7f2fe6e145/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g9b9edf9cae8a0c907a944d8952f870cb" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g9b9edf9cae8a0c907a944d8952f870cb/project-|-week-2-topic-approval.html">
+      <file href="g9b9edf9cae8a0c907a944d8952f870cb/project-|-week-2-topic-approval.html"/>
+      <file href="g9b9edf9cae8a0c907a944d8952f870cb/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g3540a11e4e1deb4412c90652c998350b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g3540a11e4e1deb4412c90652c998350b/project-|-week-3-planning-analysis-sheet.html">
+      <file href="g3540a11e4e1deb4412c90652c998350b/project-|-week-3-planning-analysis-sheet.html"/>
+      <file href="g3540a11e4e1deb4412c90652c998350b/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gedebfa395667eba93ebe7015519f4106" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gedebfa395667eba93ebe7015519f4106/project-|-week-4-page-layout-design.html">
+      <file href="gedebfa395667eba93ebe7015519f4106/project-|-week-4-page-layout-design.html"/>
+      <file href="gedebfa395667eba93ebe7015519f4106/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="ge08191c7e3b521ee6c9c32f842bcfcfc" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge08191c7e3b521ee6c9c32f842bcfcfc/project-|-week-4-site-map.html">
+      <file href="ge08191c7e3b521ee6c9c32f842bcfcfc/project-|-week-4-site-map.html"/>
+      <file href="ge08191c7e3b521ee6c9c32f842bcfcfc/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gb2e19c03ec44a44c5ebbab06378415e4" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gb2e19c03ec44a44c5ebbab06378415e4/project-|-week-5-update-number-1.html">
+      <file href="gb2e19c03ec44a44c5ebbab06378415e4/project-|-week-5-update-number-1.html"/>
+      <file href="gb2e19c03ec44a44c5ebbab06378415e4/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g07451a1b9fa0538f1418dde417ad1507" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g07451a1b9fa0538f1418dde417ad1507/project-|-week-6-update-number-2.html">
+      <file href="g07451a1b9fa0538f1418dde417ad1507/project-|-week-6-update-number-2.html"/>
+      <file href="g07451a1b9fa0538f1418dde417ad1507/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gcac6604b5197323c619e19086dbe144f" type="imsdt_xmlv1p1">
+      <file href="gcac6604b5197323c619e19086dbe144f.xml"/>
+      <dependency identifierref="g46f5ff3867466e32f8f71407e86ff2f5"/>
+    </resource>
+    <resource identifier="g46f5ff3867466e32f8f71407e86ff2f5" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g46f5ff3867466e32f8f71407e86ff2f5.xml">
+      <file href="g46f5ff3867466e32f8f71407e86ff2f5.xml"/>
+    </resource>
+    <resource identifier="g6b8d917a404a0640e2955f1c5705adb0" type="imsdt_xmlv1p1">
+      <file href="g6b8d917a404a0640e2955f1c5705adb0.xml"/>
+      <dependency identifierref="g10651c4f084b65b41eff7e23207de8f5"/>
+    </resource>
+    <resource identifier="g10651c4f084b65b41eff7e23207de8f5" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g10651c4f084b65b41eff7e23207de8f5.xml">
+      <file href="g10651c4f084b65b41eff7e23207de8f5.xml"/>
+    </resource>
+    <resource identifier="g60f2b3d177c74b1706b17144f51997d7" type="imsdt_xmlv1p1">
+      <file href="g60f2b3d177c74b1706b17144f51997d7.xml"/>
+      <dependency identifierref="gda6f9ef1e2d5e90085855280aebccadc"/>
+    </resource>
+    <resource identifier="gda6f9ef1e2d5e90085855280aebccadc" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gda6f9ef1e2d5e90085855280aebccadc.xml">
+      <file href="gda6f9ef1e2d5e90085855280aebccadc.xml"/>
+    </resource>
+    <resource identifier="g8d1f6e27c742ac99318b33ed5d15868a" type="imsdt_xmlv1p1">
+      <file href="g8d1f6e27c742ac99318b33ed5d15868a.xml"/>
+      <dependency identifierref="g43a12ef968ac041ef3d4f966d479a9ce"/>
+    </resource>
+    <resource identifier="g43a12ef968ac041ef3d4f966d479a9ce" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g43a12ef968ac041ef3d4f966d479a9ce.xml">
+      <file href="g43a12ef968ac041ef3d4f966d479a9ce.xml"/>
+    </resource>
+    <resource identifier="g3a11795ce69a7ac0316a1fe38bfb4ff7" type="imsdt_xmlv1p1">
+      <file href="g3a11795ce69a7ac0316a1fe38bfb4ff7.xml"/>
+      <dependency identifierref="gcc29643813586d75bd06c3bb12b52211"/>
+    </resource>
+    <resource identifier="gcc29643813586d75bd06c3bb12b52211" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gcc29643813586d75bd06c3bb12b52211.xml">
+      <file href="gcc29643813586d75bd06c3bb12b52211.xml"/>
+    </resource>
+    <resource identifier="g04c7e03e3f8e1b76ab08e4601b8e1e90" type="imsdt_xmlv1p1">
+      <file href="g04c7e03e3f8e1b76ab08e4601b8e1e90.xml"/>
+      <dependency identifierref="g51d64389e5ff7810dd82670fe8fdf818"/>
+    </resource>
+    <resource identifier="g51d64389e5ff7810dd82670fe8fdf818" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g51d64389e5ff7810dd82670fe8fdf818.xml">
+      <file href="g51d64389e5ff7810dd82670fe8fdf818.xml"/>
+    </resource>
+    <resource identifier="g8107d9ac140d181c79a0be64f931b938" type="imsdt_xmlv1p1">
+      <file href="g8107d9ac140d181c79a0be64f931b938.xml"/>
+      <dependency identifierref="ga7bdafc07b2af8d7d67a11b46a81956c"/>
+    </resource>
+    <resource identifier="ga7bdafc07b2af8d7d67a11b46a81956c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga7bdafc07b2af8d7d67a11b46a81956c.xml">
+      <file href="ga7bdafc07b2af8d7d67a11b46a81956c.xml"/>
+    </resource>
+    <resource identifier="gd04edc8f76d413ba80a4ad24877e9321" type="imsdt_xmlv1p1">
+      <file href="gd04edc8f76d413ba80a4ad24877e9321.xml"/>
+      <dependency identifierref="g9e2470335dafdbdc14cb9c9d0204d4b0"/>
+    </resource>
+    <resource identifier="g9e2470335dafdbdc14cb9c9d0204d4b0" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g9e2470335dafdbdc14cb9c9d0204d4b0.xml">
+      <file href="g9e2470335dafdbdc14cb9c9d0204d4b0.xml"/>
+    </resource>
+    <resource identifier="ge0bca31c25d0749121d1f4d2bbf9e6fd" type="imswl_xmlv1p1">
+      <file href="ge0bca31c25d0749121d1f4d2bbf9e6fd.xml"/>
+    </resource>
+    <resource identifier="gb1ce17d42b3731b4f980e236b2e8b26a" type="imswl_xmlv1p1">
+      <file href="gb1ce17d42b3731b4f980e236b2e8b26a.xml"/>
+    </resource>
+    <resource identifier="ge73ad47f84ff1a8b638f7ceaa22aad91" type="imswl_xmlv1p1">
+      <file href="ge73ad47f84ff1a8b638f7ceaa22aad91.xml"/>
+    </resource>
+    <resource identifier="g66cf45262bbfba3e99867070a6887667" type="imswl_xmlv1p1">
+      <file href="g66cf45262bbfba3e99867070a6887667.xml"/>
+    </resource>
+    <resource identifier="g17abd1884981e4dacaacde376c057484" type="imswl_xmlv1p1">
+      <file href="g17abd1884981e4dacaacde376c057484.xml"/>
+    </resource>
+    <resource identifier="g963d98fe8ae4305cdc4441aa11eb466a" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g963d98fe8ae4305cdc4441aa11eb466a/assessment_qti.xml"/>
+      <dependency identifierref="g652b8fee615308617b8246ce9b790d28"/>
+    </resource>
+    <resource identifier="g652b8fee615308617b8246ce9b790d28" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g963d98fe8ae4305cdc4441aa11eb466a/assessment_meta.xml">
+      <file href="g963d98fe8ae4305cdc4441aa11eb466a/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g963d98fe8ae4305cdc4441aa11eb466a.xml.qti"/>
+    </resource>
+    <resource identifier="g3be8d83d7ec94b8630746d0bac142e91" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g3be8d83d7ec94b8630746d0bac142e91/assessment_qti.xml"/>
+      <dependency identifierref="ga9a6f00029e0fc9fbcb8cc125cca1d55"/>
+    </resource>
+    <resource identifier="ga9a6f00029e0fc9fbcb8cc125cca1d55" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g3be8d83d7ec94b8630746d0bac142e91/assessment_meta.xml">
+      <file href="g3be8d83d7ec94b8630746d0bac142e91/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g3be8d83d7ec94b8630746d0bac142e91.xml.qti"/>
+    </resource>
+    <resource identifier="g744e4e5e2ef6015363dd3599cdaa6efe" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g744e4e5e2ef6015363dd3599cdaa6efe/assessment_qti.xml"/>
+      <dependency identifierref="gb2648f8f9ba42a41feed72929785bad2"/>
+    </resource>
+    <resource identifier="gb2648f8f9ba42a41feed72929785bad2" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g744e4e5e2ef6015363dd3599cdaa6efe/assessment_meta.xml">
+      <file href="g744e4e5e2ef6015363dd3599cdaa6efe/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g744e4e5e2ef6015363dd3599cdaa6efe.xml.qti"/>
+    </resource>
+    <resource identifier="ga72cbaa98d48e541ab87920b834ee456" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="ga72cbaa98d48e541ab87920b834ee456/assessment_qti.xml"/>
+      <dependency identifierref="g9df35b495e0589592f20288776dccf67"/>
+    </resource>
+    <resource identifier="g9df35b495e0589592f20288776dccf67" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga72cbaa98d48e541ab87920b834ee456/assessment_meta.xml">
+      <file href="ga72cbaa98d48e541ab87920b834ee456/assessment_meta.xml"/>
+      <file href="non_cc_assessments/ga72cbaa98d48e541ab87920b834ee456.xml.qti"/>
+    </resource>
+    <resource identifier="g3165fdc11b88af823ca78bee9f89e5a3" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g3165fdc11b88af823ca78bee9f89e5a3/assessment_qti.xml"/>
+      <dependency identifierref="g7729cd8d17222a184457f5f21aab9a04"/>
+    </resource>
+    <resource identifier="g7729cd8d17222a184457f5f21aab9a04" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g3165fdc11b88af823ca78bee9f89e5a3/assessment_meta.xml">
+      <file href="g3165fdc11b88af823ca78bee9f89e5a3/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g3165fdc11b88af823ca78bee9f89e5a3.xml.qti"/>
+    </resource>
+    <resource identifier="g74ffe12547382713c8397863825300a5" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g74ffe12547382713c8397863825300a5/assessment_qti.xml"/>
+      <dependency identifierref="g204bab79bfa997fb2bc3f91753c1a6b4"/>
+    </resource>
+    <resource identifier="g204bab79bfa997fb2bc3f91753c1a6b4" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g74ffe12547382713c8397863825300a5/assessment_meta.xml">
+      <file href="g74ffe12547382713c8397863825300a5/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g74ffe12547382713c8397863825300a5.xml.qti"/>
+    </resource>
+    <resource identifier="ga42099ed23c9c4846cff6db170cbd256" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="ga42099ed23c9c4846cff6db170cbd256/assessment_qti.xml"/>
+      <dependency identifierref="g6aca2f8d2bc91296bd8769b6f5cdeefd"/>
+    </resource>
+    <resource identifier="g6aca2f8d2bc91296bd8769b6f5cdeefd" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ga42099ed23c9c4846cff6db170cbd256/assessment_meta.xml">
+      <file href="ga42099ed23c9c4846cff6db170cbd256/assessment_meta.xml"/>
+      <file href="non_cc_assessments/ga42099ed23c9c4846cff6db170cbd256.xml.qti"/>
+    </resource>
+    <resource identifier="g30796cf584fbfbbe77e217e500b65ed9" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g30796cf584fbfbbe77e217e500b65ed9.xml.qti">
+      <file href="non_cc_assessments/g30796cf584fbfbbe77e217e500b65ed9.xml.qti"/>
+    </resource>
+    <resource identifier="gd0b773fbb85007e576c6fcfe8fd36efe" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/gd0b773fbb85007e576c6fcfe8fd36efe.xml.qti">
+      <file href="non_cc_assessments/gd0b773fbb85007e576c6fcfe8fd36efe.xml.qti"/>
+    </resource>
+    <resource identifier="g61bde9c5e10a42537395cdef0b02c90f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g61bde9c5e10a42537395cdef0b02c90f.xml.qti">
+      <file href="non_cc_assessments/g61bde9c5e10a42537395cdef0b02c90f.xml.qti"/>
+    </resource>
+    <resource identifier="g31c3184721845ab70a7b224022202ce0" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g31c3184721845ab70a7b224022202ce0.xml.qti">
+      <file href="non_cc_assessments/g31c3184721845ab70a7b224022202ce0.xml.qti"/>
+    </resource>
+    <resource identifier="g23bd524cd82025289d7eb841d3dbae55" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g23bd524cd82025289d7eb841d3dbae55.xml.qti">
+      <file href="non_cc_assessments/g23bd524cd82025289d7eb841d3dbae55.xml.qti"/>
+    </resource>
+    <resource identifier="gc62ad25dda8fafb2cf3b35f2be752909" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/gc62ad25dda8fafb2cf3b35f2be752909.xml.qti">
+      <file href="non_cc_assessments/gc62ad25dda8fafb2cf3b35f2be752909.xml.qti"/>
+    </resource>
+    <resource identifier="g5e627e704d969aa8e6fe7673c6df1a8e" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g5e627e704d969aa8e6fe7673c6df1a8e.xml.qti">
+      <file href="non_cc_assessments/g5e627e704d969aa8e6fe7673c6df1a8e.xml.qti"/>
+    </resource>
+    <resource identifier="g9b17871fbfeda7d1bf6bd3d74c3c2596" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g9b17871fbfeda7d1bf6bd3d74c3c2596.xml.qti">
+      <file href="non_cc_assessments/g9b17871fbfeda7d1bf6bd3d74c3c2596.xml.qti"/>
+    </resource>
+    <resource identifier="g4c420850d50163ac701cd5a3c3a0f7c4" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g4c420850d50163ac701cd5a3c3a0f7c4.xml.qti">
+      <file href="non_cc_assessments/g4c420850d50163ac701cd5a3c3a0f7c4.xml.qti"/>
+    </resource>
+    <resource identifier="g827c9c312a5b793c68b5a3842ff664d4" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g827c9c312a5b793c68b5a3842ff664d4.xml.qti">
+      <file href="non_cc_assessments/g827c9c312a5b793c68b5a3842ff664d4.xml.qti"/>
+    </resource>
+    <resource identifier="gd35d3fe068e82148d3da15e61a27ade5" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/gd35d3fe068e82148d3da15e61a27ade5.xml.qti">
+      <file href="non_cc_assessments/gd35d3fe068e82148d3da15e61a27ade5.xml.qti"/>
+    </resource>
+    <resource identifier="g89fc08b1737b9b89cd451c21218991bf" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g89fc08b1737b9b89cd451c21218991bf.xml.qti">
+      <file href="non_cc_assessments/g89fc08b1737b9b89cd451c21218991bf.xml.qti"/>
+    </resource>
+    <resource identifier="g83550e09d887845ee71661a9c9456d80" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g83550e09d887845ee71661a9c9456d80.xml.qti">
+      <file href="non_cc_assessments/g83550e09d887845ee71661a9c9456d80.xml.qti"/>
+    </resource>
+    <resource identifier="g979b1e40a4a4313a78e4f8dc6fe8abc8" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g979b1e40a4a4313a78e4f8dc6fe8abc8.xml.qti">
+      <file href="non_cc_assessments/g979b1e40a4a4313a78e4f8dc6fe8abc8.xml.qti"/>
+    </resource>
+    <resource identifier="g23132b340400f3d5ef9b72a2b1c3b6e4" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g23132b340400f3d5ef9b72a2b1c3b6e4.xml.qti">
+      <file href="non_cc_assessments/g23132b340400f3d5ef9b72a2b1c3b6e4.xml.qti"/>
+    </resource>
+    <resource type="webcontent" identifier="gef40d079a59ed830323acf15ec7f0256" href="web_resources/WPC Canvas Header - WPC Spirit Transparency - Welcome and Start.jpg">
+      <file href="web_resources/WPC Canvas Header - WPC Spirit Transparency - Welcome and Start.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g677530023663e2a7465007d651c16fc6" href="web_resources/ClickHereForHints.png">
+      <file href="web_resources/ClickHereForHints.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g0b561ca0c78f7cd43777261ddaafdc28" href="web_resources/CreateTableAgents.sql">
+      <file href="web_resources/CreateTableAgents.sql"/>
+    </resource>
+    <resource type="webcontent" identifier="ga5bd2a14c669446d1470667a001ff6cb" href="web_resources/Figure5-25.PNG">
+      <file href="web_resources/Figure5-25.PNG"/>
+    </resource>
+    <resource type="webcontent" identifier="g66ccb298f55588668a15e65919b24bb9" href="web_resources/FileSubmission.PNG">
+      <file href="web_resources/FileSubmission.PNG"/>
+    </resource>
+    <resource type="webcontent" identifier="g594171719c655b736586a42ab31d6d6c" href="web_resources/From ER Diagram to SQL Script.pdf">
+      <file href="web_resources/From ER Diagram to SQL Script.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g7378f32bb0e1305db21d86c3b876beba" href="web_resources/Introduction to CIS300.pdf">
+      <file href="web_resources/Introduction to CIS300.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gb6e2e7b2165a00faf16c3168f511aa6e" href="web_resources/MAMP and MySQL Workbench installation guide for Mac.pdf">
+      <file href="web_resources/MAMP and MySQL Workbench installation guide for Mac.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g2e01bedfc6552881f1f25666d0f0b227" href="web_resources/MAMP and MySQL Workbench installation guide for Windows.pdf">
+      <file href="web_resources/MAMP and MySQL Workbench installation guide for Windows.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g688e1f6f28722851ae364441c3169534" href="web_resources/MySQLPHPExample.zip">
+      <file href="web_resources/MySQLPHPExample.zip"/>
+    </resource>
+    <resource type="webcontent" identifier="gbfe946837fdc13b421229eea32fdb8b3" href="web_resources/Screen Shot 2018-12-10 at 3.21.21 PM.png">
+      <file href="web_resources/Screen Shot 2018-12-10 at 3.21.21 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g7ec2395059dfaa5831af841a503d4c93" href="web_resources/Screen Shot 2018-12-10 at 3.24.42 PM.png">
+      <file href="web_resources/Screen Shot 2018-12-10 at 3.24.42 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g37b8c02c616defe58d6186241ca0ed7e" href="web_resources/colorSchemeExample.JPG">
+      <file href="web_resources/colorSchemeExample.JPG"/>
+    </resource>
+    <resource type="webcontent" identifier="gce3a55f90fd524762b391d26de55cbbe" href="web_resources/css3-cheat-sheet.pdf">
+      <file href="web_resources/css3-cheat-sheet.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gb9c6977c16a254205916d44e62b34f42" href="web_resources/formspreeConfirmation.JPG">
+      <file href="web_resources/formspreeConfirmation.JPG"/>
+    </resource>
+    <resource type="webcontent" identifier="g8d7ee7e5fbb10889860744b3b8af5783" href="web_resources/formspreeStep1.JPG">
+      <file href="web_resources/formspreeStep1.JPG"/>
+    </resource>
+    <resource type="webcontent" identifier="g62bc6c39fb78ac6806b6a549cb68cd59" href="web_resources/formspreeStep2.JPG">
+      <file href="web_resources/formspreeStep2.JPG"/>
+    </resource>
+    <resource type="webcontent" identifier="ga9edd8a388b082d88531db0edfedb26d" href="web_resources/html5-cheat-sheet.pdf">
+      <file href="web_resources/html5-cheat-sheet.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gb2391292317d76b4311a0edaf9222296" href="web_resources/CIS300 Canvas Header.png">
+      <file href="web_resources/CIS300 Canvas Header.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g39395ba012fcdd43d080c56532275034" href="web_resources/ElvaLin.png">
+      <file href="web_resources/ElvaLin.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gbff3ed01866938cf8faa8d8670d8444c" href="web_resources/textbook.jpg">
+      <file href="web_resources/textbook.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g5d656dcb1618ea598088e7844f7d2982" href="web_resources/CIS 300 - Elva Lin - Syllabus Overview.pdf">
+      <file href="web_resources/CIS 300 - Elva Lin - Syllabus Overview.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g71579983fd2c93ff3329aaaca14c3892" href="web_resources/wireframe rubrics.png">
+      <file href="web_resources/wireframe rubrics.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g58fc4708d50ea54e0133bf916735c763" href="web_resources/CIS300SyllabusSpring2020.pdf">
+      <file href="web_resources/CIS300SyllabusSpring2020.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g050588c823df7061a1b2ac20cd9223e9" href="web_resources/maroonArrow.png">
+      <file href="web_resources/maroonArrow.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g2c7fc42a7efd092c0793d255d33acc47" href="web_resources/CIS300SyllabusSpring2021.pdf">
+      <file href="web_resources/CIS300SyllabusSpring2021.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gd7f243b861e2674afb9fb85373dd4e90" href="web_resources/CIS300SyllabusSpring2021B.pdf">
+      <file href="web_resources/CIS300SyllabusSpring2021B.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g9244db90aa10ac6c0f7963c072910bdf" href="web_resources/CIS300Syllabus.docx">
+      <file href="web_resources/CIS300Syllabus.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="g1649542f04af459c0f84b6fa20c0255a" href="web_resources/Orientation Files/chrome.jpg">
+      <file href="web_resources/Orientation Files/chrome.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g00f057e72269a447b99c88582cbc63a6" href="web_resources/Orientation Files/firefox.jpg">
+      <file href="web_resources/Orientation Files/firefox.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g3286f4d0fe8dad484ec3dc401ebb147c" href="web_resources/Orientation Files/ios.png">
+      <file href="web_resources/Orientation Files/ios.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g64f536514170b6b2ac8385a04d2bc423" href="web_resources/Orientation Files/android.png">
+      <file href="web_resources/Orientation Files/android.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gf8526111f88ef61b31290ebecf03a4e0" href="web_resources/Orientation Files/Dashboard.jpg">
+      <file href="web_resources/Orientation Files/Dashboard.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gf9469251272acbfd760e26ea26690444" href="web_resources/Orientation Files/Course Dashboard.jpg">
+      <file href="web_resources/Orientation Files/Course Dashboard.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g1ddcf0e2c5bd6d98615196d79e965548" href="web_resources/Orientation Files/ASU Canvas Account.jpg">
+      <file href="web_resources/Orientation Files/ASU Canvas Account.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g112a18fc147c44f363395be42456b56e" href="web_resources/Orientation Files/channel.png">
+      <file href="web_resources/Orientation Files/channel.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g8587c8cad60c2d963dfd4b5c6fea47b4" href="web_resources/Orientation Files/Notification Preferences.jpg">
+      <file href="web_resources/Orientation Files/Notification Preferences.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gdd4dd5919b3170e2481c44b8992f5b31" href="web_resources/Orientation Files/Course Menu.jpg">
+      <file href="web_resources/Orientation Files/Course Menu.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="ge6e0b9afb9161938536c53456a57a039" href="web_resources/Orientation Files/Sample Course Summary.jpg">
+      <file href="web_resources/Orientation Files/Sample Course Summary.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gb2de0f49b0bf443e69161de75532e51b" href="web_resources/Orientation Files/Canvas menu.png">
+      <file href="web_resources/Orientation Files/Canvas menu.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g3f09d2b33d23efe9ba0cabfb9acbb897" href="web_resources/Orientation Files/calendar.png">
+      <file href="web_resources/Orientation Files/calendar.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g6aa05d9bbf762ab680315af0a41a2354" href="web_resources/Orientation Files/ParticipateInGroupImage001.png">
+      <file href="web_resources/Orientation Files/ParticipateInGroupImage001.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g1110c58807de25ecb4236e5364572ecf" href="web_resources/Orientation Files/Module Page.jpg">
+      <file href="web_resources/Orientation Files/Module Page.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g1946d8a01b8ed9695086038bbf52fc4a" href="web_resources/Orientation Files/turnIn001.png">
+      <file href="web_resources/Orientation Files/turnIn001.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g81bac43e37a440f6349d66c5786908ae" href="web_resources/Orientation Files/turnIn002.png">
+      <file href="web_resources/Orientation Files/turnIn002.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g69fbfc2db489816d802bd926b2549c79" href="web_resources/Orientation Files/turnIn003.png">
+      <file href="web_resources/Orientation Files/turnIn003.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g58968566bad635e9e7d7101c5246493d" href="web_resources/Orientation Files/turnIn003-1.png">
+      <file href="web_resources/Orientation Files/turnIn003-1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gc334dcd26462e3e1f3cc6a03ec4d62d3" href="web_resources/Orientation Files/turnIn004.png">
+      <file href="web_resources/Orientation Files/turnIn004.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g8bf76555994a8d7dfe081576f7c93998" href="web_resources/Orientation Files/turnIn005.png">
+      <file href="web_resources/Orientation Files/turnIn005.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ga63f1843d002265af0f6ac153e4dc271" href="web_resources/Orientation Files/quiz01.png">
+      <file href="web_resources/Orientation Files/quiz01.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gede353652af174de49d87af37d2dde05" href="web_resources/Orientation Files/Quiz02.png">
+      <file href="web_resources/Orientation Files/Quiz02.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g7b7f1aebb8ce6ac72207ce2c9752a05c" href="web_resources/Orientation Files/Quiz03.png">
+      <file href="web_resources/Orientation Files/Quiz03.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g2143097258bb45adab311b6fa2ba630d" href="web_resources/Orientation Files/Quiz04.png">
+      <file href="web_resources/Orientation Files/Quiz04.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g32b8313cef7b984f414cb6a5f40589f5" href="web_resources/Orientation Files/Quiz05.png">
+      <file href="web_resources/Orientation Files/Quiz05.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g92a1c822cdc98392961982e8e8eec412" href="web_resources/Orientation Files/Quiz06.png">
+      <file href="web_resources/Orientation Files/Quiz06.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gfe4639f66e66b82d26b6fd5345f98515" href="web_resources/Orientation Files/Help Screen.jpg">
+      <file href="web_resources/Orientation Files/Help Screen.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g05501b3e6dc8f40ac4b8033b77e545d5" href="web_resources/Video Slides/CIS300 - Chapter 1.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 1.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="ga25a801bc1198ff86dbf77c2e4a2ab5a" href="web_resources/Video Slides/CIS300 - Chapter 10.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 10.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g3c3e6fce76d1e557a19fd1414acc36b5" href="web_resources/Video Slides/CIS300 - Chapter 11.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 11.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g45916ef3a82c8ce87c2ecaff62193485" href="web_resources/Video Slides/CIS300 - Chapter 12.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 12.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g44f02c54d81268261383d295407127cf" href="web_resources/Video Slides/CIS300 - Chapter 2.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 2.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g14b02daae3750097d0b6f4ad607da308" href="web_resources/Video Slides/CIS300 - Chapter 3.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 3.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gc701fba04b83b0f53a5e57d6a1061e10" href="web_resources/Video Slides/CIS300 - Chapter 4.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 4.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gba34b1ae7aad048e25d473bdc50c0da0" href="web_resources/Video Slides/CIS300 - Chapter 5.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 5.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="ge047e96b1bfb9cdaa7b7bcbb6022f328" href="web_resources/Video Slides/CIS300 - Chapter 6.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 6.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gc84462d86f7fc1c270fef2a0ca15b1e8" href="web_resources/Video Slides/CIS300 - Chapter 9.pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 9.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g9251023d112dd0504c632905d3de4be5" href="web_resources/Video Slides/CIS300 - Chapter 7 (2019).pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 7 (2019).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="gdee5072f3ac5d547707830c42ee7e5c1" href="web_resources/Video Slides/CIS300 - Chapter 8 (2019).pdf">
+      <file href="web_resources/Video Slides/CIS300 - Chapter 8 (2019).pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g257e2055d54a7ab93d4ca4e55123e33c" href="web_resources/unfiled/Wireframe Rubrics.png">
+      <file href="web_resources/unfiled/Wireframe Rubrics.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g316a03b36d6ec6723be877472d25a0ec" href="web_resources/unfiled/wireframe rubrics.png">
+      <file href="web_resources/unfiled/wireframe rubrics.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g67b20c51b6d98d8d8276e69235a777e4" href="web_resources/unfiled/wireframe rubrics-1.png">
+      <file href="web_resources/unfiled/wireframe rubrics-1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g1b3c194f4bbce626eaf310becd2ba866" href="web_resources/Elva/Layout.mp4">
+      <file href="web_resources/Elva/Layout.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g83dd55dc698aea99ba7fe0bcabd0c498" href="web_resources/Elva/CIS300-Developer Tools for Troubleshooting.mp4">
+      <file href="web_resources/Elva/CIS300-Developer Tools for Troubleshooting.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gbc8186d4dd0cba823f57e4b70b333813" href="web_resources/Elva/companionWebsites.png">
+      <file href="web_resources/Elva/companionWebsites.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g8456d96a55fe73101ebc701725ef6336" href="web_resources/Elva/studentFiles.png">
+      <file href="web_resources/Elva/studentFiles.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gf89818b3cd18e6586f2bfff9dbd1ef9b" href="web_resources/Elva/companionWebsites-1.png">
+      <file href="web_resources/Elva/companionWebsites-1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g04c6b04a5cce590f18bb3ced75f1f08e" href="web_resources/Elva/Sublime Text 3.pdf">
+      <file href="web_resources/Elva/Sublime Text 3.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g60f1bdae6ffaa96a7e7ba7a0b110e0b6" href="web_resources/Elva/VisualStudioCode.pdf">
+      <file href="web_resources/Elva/VisualStudioCode.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g8657e6d2c7611d55616d5818d4e1bd09" href="web_resources/Elva/casestudyfolders.pdf">
+      <file href="web_resources/Elva/casestudyfolders.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="ge327e931b42d3cb93eaeff9250b3ebea" href="web_resources/Elva/CIS300SyllabusSpring2022A.pdf">
+      <file href="web_resources/Elva/CIS300SyllabusSpring2022A.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g2a92bd1adb2fda3cb35dfab8559bf05a" href="web_resources/course_image/Canvas Card.png">
+      <file href="web_resources/course_image/Canvas Card.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g4ccf892193b589fd869aed12259c2077" href="web_resources/course_image/Meet Your Prof-Welcome and Start here.png">
+      <file href="web_resources/course_image/Meet Your Prof-Welcome and Start here.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g340569afae303c4c540881fa31d6f2c7" href="web_resources/course_image/Week01img.png">
+      <file href="web_resources/course_image/Week01img.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g67d510dc226d120ed7fad229a63c2e16" href="web_resources/course_image/Textbook Info-Welcome and Start here.png">
+      <file href="web_resources/course_image/Textbook Info-Welcome and Start here.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g6070f87b2b43686734e6325eccce5f56" href="web_resources/course_image/Tips4Success-Welcome and Start here.png">
+      <file href="web_resources/course_image/Tips4Success-Welcome and Start here.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g4060be32e6e63958f9795aacc255cb88" href="web_resources/course_image/Welcome and Start here Header template.png">
+      <file href="web_resources/course_image/Welcome and Start here Header template.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g7c2ba8bd3f5e44fc4ab7c66bc8a9956b" href="web_resources/Project/ASURITE - Project - Submission 3 - Site Map.docx">
+      <file href="web_resources/Project/ASURITE - Project - Submission 3 - Site Map.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="gd9288bf8c3f032b3411a1a9fc6450b50" href="web_resources/Project/ASURITE - Project - Submission 4 - Wireframe.docx">
+      <file href="web_resources/Project/ASURITE - Project - Submission 4 - Wireframe.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="g5db80b076ac179c3883f690e3fc2701d" href="web_resources/Project/CIS300 Project Instructions.pdf">
+      <file href="web_resources/Project/CIS300 Project Instructions.pdf"/>
+    </resource>
+    <resource type="webcontent" identifier="g6fa23d516c9e935e5a6f705bc04c6353" href="web_resources/Project/old ASURITE - Project - Submission 6 - Project Update 2.docx">
+      <file href="web_resources/Project/old ASURITE - Project - Submission 6 - Project Update 2.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="g28b1a09a2d7e7100a5411d9fa54b5e3b" href="web_resources/Project/ASURITE - Project - Submission 2 - Planning Analysis Sheet.docx">
+      <file href="web_resources/Project/ASURITE - Project - Submission 2 - Planning Analysis Sheet.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="g172b1a0c61c563db252a38cbbd8471d9" href="web_resources/Project/ASURITE - Project - Submission 6 - Project Update 2.docx">
+      <file href="web_resources/Project/ASURITE - Project - Submission 6 - Project Update 2.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="gd4367281f70b30aa107e28c47123ae68" href="web_resources/Project/ASURITE - Project - Submission 1 - Website Topic Approval.docx">
+      <file href="web_resources/Project/ASURITE - Project - Submission 1 - Website Topic Approval.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="gcdb1408df8fa73f79558523ea31b92e8" href="web_resources/Project/ASURITE - Project - Submission 5 - Project Update 1.docx">
+      <file href="web_resources/Project/ASURITE - Project - Submission 5 - Project Update 1.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="g2b8fc60b744ca5933487c822436f1586" href="web_resources/Project/ASURITE - Project - Submission 7 - Publish and Discuss Project.docx">
+      <file href="web_resources/Project/ASURITE - Project - Submission 7 - Publish and Discuss Project.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="g102b19906723eaab5fe52904ea4cf275" href="web_resources/Uploaded Media/Screen Shot 2021-02-03 at 12.06.08 PM.png">
+      <file href="web_resources/Uploaded Media/Screen Shot 2021-02-03 at 12.06.08 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g4cb276cb9f92b9866e83b2e1d668de00" href="web_resources/Uploaded Media/Screen Shot 2021-02-03 at 12.12.26 PM.png">
+      <file href="web_resources/Uploaded Media/Screen Shot 2021-02-03 at 12.12.26 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gc2440d5e128471b5d6396c2ce851c3c0" href="web_resources/Uploaded Media/Screen Shot 2021-02-04 at 5.42.40 PM.png">
+      <file href="web_resources/Uploaded Media/Screen Shot 2021-02-04 at 5.42.40 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ge5d5e3e0ea51e52c8d2dd1fe4455b0e2" href="web_resources/Uploaded Media/Screen Shot 2021-02-05 at 7.15.43 PM.png">
+      <file href="web_resources/Uploaded Media/Screen Shot 2021-02-05 at 7.15.43 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gdd497893f68f4e9da035d496164136dc" href="web_resources/Uploaded Media/Screen Shot 2021-02-05 at 7.15.43 PM-1.png">
+      <file href="web_resources/Uploaded Media/Screen Shot 2021-02-05 at 7.15.43 PM-1.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gfd097a07a1b26947804191e7baef9e9c" href="web_resources/Uploaded Media/Screen Shot 2021-04-21 at 2.09.43 PM.png">
+      <file href="web_resources/Uploaded Media/Screen Shot 2021-04-21 at 2.09.43 PM.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gdc5dc2b7b743e060c58bf659ffd9f7b9" href="web_resources/Uploaded Media/CIS300-Developer Tools for Troubleshooting.mp4">
+      <file href="web_resources/Uploaded Media/CIS300-Developer Tools for Troubleshooting.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g7e437b030213078c50c72d728ed21269" href="web_resources/Uploaded Media/CIS300-Developer Tools for Troubleshooting-1.mp4">
+      <file href="web_resources/Uploaded Media/CIS300-Developer Tools for Troubleshooting-1.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="ga0f9b722b9e8f1aad3ba8be964bd275c" href="web_resources/Syllabus/CIS300SyllabusFall2021B.pdf">
+      <file href="web_resources/Syllabus/CIS300SyllabusFall2021B.pdf"/>
+    </resource>
+  </resources>
+</manifest>

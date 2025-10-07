@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_qtiasiv1p2p1_v1p0.xsd">
+  <assessment ident="g74ffe12547382713c8397863825300a5" title="Quiz | Week 6">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_profile</fieldlabel>
+        <fieldentry>cc.exam.v0p1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>qmd_assessmenttype</fieldlabel>
+        <fieldentry>Examination</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>qmd_scoretype</fieldlabel>
+        <fieldentry>Percentage</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>qmd_timelimit</fieldlabel>
+        <fieldentry>30</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ga8196faf0610c3fa01a42b428a48c698" title="In terms of copyrigh">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;In terms of copyright, Fair Use is determined to be&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="74482">
+                <material>
+                  <mattext texttype="text/plain">The use of a copyrighted work for purposes such as criticism, reporting, teaching, scholarship, or research.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="44180">
+                <material>
+                  <mattext texttype="text/plain">The use of anything you find on the Web</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69292">
+                <material>
+                  <mattext texttype="text/plain">Copying other’s music and fairly distributing it to your friends</mattext>
+                </material>
+              </response_label>
+              <response_label ident="45888">
+                <material>
+                  <mattext texttype="text/plain">None of the answers are correct</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">74482</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5871ba64b1e96aa2cc70843945e47577" title="is a JavaScript libr">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;_______ is a JavaScript library intended to simplify client-side scripting:&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="1560">
+                <material>
+                  <mattext texttype="text/plain">Ajax</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4621">
+                <material>
+                  <mattext texttype="text/plain">jQuery</mattext>
+                </material>
+              </response_label>
+              <response_label ident="73663">
+                <material>
+                  <mattext texttype="text/plain">Flash</mattext>
+                </material>
+              </response_label>
+              <response_label ident="81229">
+                <material>
+                  <mattext texttype="text/plain">Java</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4621</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g557b6b28744865ffe93fa2304fa91ca6" title="JavaScript can be de">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;JavaScript can be described as:&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="11276">
+                <material>
+                  <mattext texttype="text/plain">an object-based scripting language</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1466">
+                <material>
+                  <mattext texttype="text/plain">a markup language</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58233">
+                <material>
+                  <mattext texttype="text/plain">an HTML5 element</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36083">
+                <material>
+                  <mattext texttype="text/plain">none of the answers are correct</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">11276</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g4e7a30fde0c93c58245479d21152265d" title="JavaScript can be de 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;JavaScript can be described as:&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="70538">
+                <material>
+                  <mattext texttype="text/plain">an object-based scripting language</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78226">
+                <material>
+                  <mattext texttype="text/plain">an easy form of Java</mattext>
+                </material>
+              </response_label>
+              <response_label ident="50213">
+                <material>
+                  <mattext texttype="text/plain">a language created by Microsoft</mattext>
+                </material>
+              </response_label>
+              <response_label ident="77713">
+                <material>
+                  <mattext texttype="text/plain">none of the answers are correct</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">70538</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g6ac2a0fcfda70da204d114f3aa9321d3" title="Scenario: The Intern">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Scenario: The Internet Explorer 8 browser is being used to display a web page with an audio player but the audio element displays nothing on the page. Read the following code snippet and select the reason for the incorrect display from the choices below.&lt;br&gt;&amp;lt;audio controls="controls"&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;source src="podcast.mp3" type="audio/mpeg"&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;lt;source src="podcast.ogg" type="audio/ogg"&amp;gt; &lt;br&gt;&amp;lt;/audio&amp;gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="71213">
+                <material>
+                  <mattext texttype="text/plain">The controls attribute should be controls=”yes”</mattext>
+                </material>
+              </response_label>
+              <response_label ident="21355">
+                <material>
+                  <mattext texttype="text/plain">There are too many source elements.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36566">
+                <material>
+                  <mattext texttype="text/plain">There is no fallback content to display for browsers that do not support the audio element.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14349">
+                <material>
+                  <mattext texttype="text/plain">The MIME type values are incorrect.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">36566</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g2aa433902ab751833e9a5d19a17a33fb" title="Select a disadvantag">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Select a disadvantage of displaying Flash media in a web page from the list below:&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="68811">
+                <material>
+                  <mattext texttype="text/plain">You need to create multiple video files in different formats.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98389">
+                <material>
+                  <mattext texttype="text/plain">No browser plug-in or player is needed.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98613">
+                <material>
+                  <mattext texttype="text/plain">Flash is supported in all browsers.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="28297">
+                <material>
+                  <mattext texttype="text/plain">Flash is not supported on many mobile devices.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">28297</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g822bfe92530ad7197f69cc13e196a491" title="Select an advantage">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Select an advantage of displaying HTML5 video in a web page from the list below:&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="92620">
+                <material>
+                  <mattext texttype="text/plain">You need to create multiple video files in different formats.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19758">
+                <material>
+                  <mattext texttype="text/plain">No browser plug-in or player is needed.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="28802">
+                <material>
+                  <mattext texttype="text/plain">All browsers play all video formats.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="17805">
+                <material>
+                  <mattext texttype="text/plain">All of the answers are advantages.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">19758</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gca73a8bd90f9ae4a8abb35452c1d71e1" title="Select a transition-">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Select a transition-timing-function value which configures a transition effect that begins at a constant speed and slows down at the end.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="85685">
+                <material>
+                  <mattext texttype="text/plain">ease</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40777">
+                <material>
+                  <mattext texttype="text/plain">linear</mattext>
+                </material>
+              </response_label>
+              <response_label ident="66596">
+                <material>
+                  <mattext texttype="text/plain">ease-in</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60361">
+                <material>
+                  <mattext texttype="text/plain">ease-out</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">60361</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g2df0b38abd4b66d0d1496b09dde570f2" title="Select recommended u">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Select recommended usability and accessibility practices:&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="41829">
+                <material>
+                  <mattext texttype="text/plain">use video and sound whenever possible</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48356">
+                <material>
+                  <mattext texttype="text/plain">supply text descriptions of audio and video files that appear in your web pages</mattext>
+                </material>
+              </response_label>
+              <response_label ident="65533">
+                <material>
+                  <mattext texttype="text/plain">never use audio and video files</mattext>
+                </material>
+              </response_label>
+              <response_label ident="38441">
+                <material>
+                  <mattext texttype="text/plain">none of the answers are correct</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">48356</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gbf5e94f55f3b37b43b4949731938c5c8" title="Select the term belo">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Select the term below which is a protocol that provides a method for software components to communicate, interact, and share data.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="21134">
+                <material>
+                  <mattext texttype="text/plain">JavaScript</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88487">
+                <material>
+                  <mattext texttype="text/plain">Application Programming Interface</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5642">
+                <material>
+                  <mattext texttype="text/plain">Java</mattext>
+                </material>
+              </response_label>
+              <response_label ident="21555">
+                <material>
+                  <mattext texttype="text/plain">Canvas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">88487</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g119fca81ea8833ebced678a85befa8f3" title="Select the term belo 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Select the term below which names an HTML5 API that allows web page visitors to share their geographic location.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="57832">
+                <material>
+                  <mattext texttype="text/plain">geodata</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48632">
+                <material>
+                  <mattext texttype="text/plain">web storage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="52856">
+                <material>
+                  <mattext texttype="text/plain">canvas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="65131">
+                <material>
+                  <mattext texttype="text/plain">geolocation</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">65131</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gb968dbadd7126e4d5297a2deb2baf257" title="Select the term belo 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Select the term below which names an HTML5 API that is used in progressive web applications:&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="60258">
+                <material>
+                  <mattext texttype="text/plain">geolocation</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29187">
+                <material>
+                  <mattext texttype="text/plain">service workers</mattext>
+                </material>
+              </response_label>
+              <response_label ident="20597">
+                <material>
+                  <mattext texttype="text/plain">web storage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72664">
+                <material>
+                  <mattext texttype="text/plain">canvas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">29187</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gbc0006f80d23ae652559ec1f417ba902" title="The CSS3 _______ pro">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;The CSS3 _______ property allows you to rotate, scale, skew, or move an element.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="34028">
+                <material>
+                  <mattext texttype="text/plain">display</mattext>
+                </material>
+              </response_label>
+              <response_label ident="18542">
+                <material>
+                  <mattext texttype="text/plain">transform</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48915">
+                <material>
+                  <mattext texttype="text/plain">transition</mattext>
+                </material>
+              </response_label>
+              <response_label ident="57450">
+                <material>
+                  <mattext texttype="text/plain">hover</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">18542</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g8498b241df1e0b51e4092463aff9cfae" title="The CSS3 _______ pro 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;The CSS3 _______ property provides for changes in property values to display in a smoother manner over a specified time.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="24169">
+                <material>
+                  <mattext texttype="text/plain">display</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8304">
+                <material>
+                  <mattext texttype="text/plain">transform</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83593">
+                <material>
+                  <mattext texttype="text/plain">transition</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31625">
+                <material>
+                  <mattext texttype="text/plain">hover</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">83593</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g664b4c0b263f4368c5f2f85cf3253fef" title="A database is a coll">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;A database is a collection of information organized so that its contents can easily be accessed, managed, and updated.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="74445">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="43280">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">74445</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gbb93dc78c7537693537bc853f70b9355" title="A domain name is ass">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;A domain name is assigned to you when you submit your website to a search engine.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="95650">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58601">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">58601</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g3c27a8449bb82f70d01eaab05341068c" title="A _______ involves t">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;A _______ involves the exclusive use of a rented computer and connection to the Internet that is housed in the web hosting company's premises.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="54679">
+                <material>
+                  <mattext texttype="text/plain">virtual hosting agreement</mattext>
+                </material>
+              </response_label>
+              <response_label ident="91940">
+                <material>
+                  <mattext texttype="text/plain">dedicated Web server</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68224">
+                <material>
+                  <mattext texttype="text/plain">co-located Web server</mattext>
+                </material>
+              </response_label>
+              <response_label ident="56048">
+                <material>
+                  <mattext texttype="text/plain">private registration</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">91940</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g8442ecd4391eed73448d4fa687d3bd69" title="A _______ is a word,">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;A _______ is a word, phrase, symbol, or design that identifies and distinguishes the source of the goods of one party from those of others.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="28308">
+                <material>
+                  <mattext texttype="text/plain">copyright</mattext>
+                </material>
+              </response_label>
+              <response_label ident="86163">
+                <material>
+                  <mattext texttype="text/plain">trademark</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58509">
+                <material>
+                  <mattext texttype="text/plain">domain name</mattext>
+                </material>
+              </response_label>
+              <response_label ident="49083">
+                <material>
+                  <mattext texttype="text/plain">Web host</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">86163</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5cf6d13b6939916bad0f803d8f446315" title="A rating determined">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;A rating determined by a search engine based on the number of links to a particular site and the qualities of those links is called _______.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="79929">
+                <material>
+                  <mattext texttype="text/plain">link checking</mattext>
+                </material>
+              </response_label>
+              <response_label ident="26078">
+                <material>
+                  <mattext texttype="text/plain">reciprocal linking</mattext>
+                </material>
+              </response_label>
+              <response_label ident="77781">
+                <material>
+                  <mattext texttype="text/plain">link popularity</mattext>
+                </material>
+              </response_label>
+              <response_label ident="20529">
+                <material>
+                  <mattext texttype="text/plain">none of the answers are correct</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">77781</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g24e48f1af713b3ade953162f28f76848" title="A search engine will">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;A search engine will only index a web page if the HTML and CSS are pass W3C validation testing.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="85409">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="75902">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">75902</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g470a3a66c86e7ad74aa60c3f9175e08f" title="Before selecting a w">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Before selecting a web host provider, it is a good idea to.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="85914">
+                <material>
+                  <mattext texttype="text/plain">Try to contact their technical support</mattext>
+                </material>
+              </response_label>
+              <response_label ident="59963">
+                <material>
+                  <mattext texttype="text/plain">Make sure they are the cheapest possible</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70324">
+                <material>
+                  <mattext texttype="text/plain">Carefully read their service level agreement</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40975">
+                <material>
+                  <mattext texttype="text/plain">both “Try to contact their technical support” and “Carefully read their service level agreement”</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">70324</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g41707dd10da68b734906e6464821fa3a" title="Commercial businesse">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Commercial businesses should register a domain name with a .org TLD.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="61325">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58421">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">58421</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gd18ab5bb497f82ec58811c76255c284d" title="FTP is a _______ tha">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;FTP is a _______ that is utilized to copy and manage files over the Internet.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="91674">
+                <material>
+                  <mattext texttype="text/plain">domain</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30842">
+                <material>
+                  <mattext texttype="text/plain">protocol</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14262">
+                <material>
+                  <mattext texttype="text/plain">hosting</mattext>
+                </material>
+              </response_label>
+              <response_label ident="26791">
+                <material>
+                  <mattext texttype="text/plain">upload</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">30842</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g1f7721f216ba8df00ba37aa7df05920b" title="How would you config">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;How would you configure a hyperlink from the index.html file to another file named services.html which is located in the same folder?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="43859">
+                <material>
+                  <mattext texttype="text/html">&amp;lt;a target="services.html"&amp;gt;Services&amp;lt;/a&amp;gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="75989">
+                <material>
+                  <mattext texttype="text/html">&amp;lt;a href="services.html"&amp;gt;Services&amp;lt;/a&amp;gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31348">
+                <material>
+                  <mattext texttype="text/html">&amp;lt;a name="services.html"&amp;gt;Services&amp;lt;/a&amp;gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74955">
+                <material>
+                  <mattext texttype="text/html">&amp;lt;a&amp;gt;Services&amp;lt;/a&amp;gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">75989</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g14ed774e3603ce10d755c387af86cee6" title="How would you config 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;How would you configure a hyperlink from the index.html file to another file named services.html which is located in a subfolder named categories?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="39656">
+                <material>
+                  <mattext texttype="text/html">&amp;lt;a href="../categories/services.html"&amp;gt;Services&amp;lt;/a&amp;gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5385">
+                <material>
+                  <mattext texttype="text/html">&amp;lt;a href="categories/services.html"&amp;gt;Services&amp;lt;/a&amp;gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8498">
+                <material>
+                  <mattext texttype="text/html">&amp;lt;a href="services.html"&amp;gt;Services&amp;lt;/a&amp;gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40993">
+                <material>
+                  <mattext texttype="text/html">&amp;lt;a&amp;gt;Services&amp;lt;/a&amp;gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">5385</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

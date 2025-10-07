@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <objectbank ident="g31c3184721845ab70a7b224022202ce0">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>bank_title</fieldlabel>
+        <fieldentry>BOWD 5th ed - Chapter 7</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>bank_context_uuid</fieldlabel>
+        <fieldentry>gOh39xpuo56iRFyFUo7W2SQo5LPMnrBdwjzlYCsu</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <item ident="g4b91dbf41fb4dda83628caba63404245" title="Choose the example b">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>71388,81864,14754,83142</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Choose the example below of a descendant selector that configures the anchor tags within the element assigned to the content id.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="71388">
+              <material>
+                <mattext texttype="text/plain">#content a</mattext>
+              </material>
+            </response_label>
+            <response_label ident="81864">
+              <material>
+                <mattext texttype="text/plain">.content a</mattext>
+              </material>
+            </response_label>
+            <response_label ident="14754">
+              <material>
+                <mattext texttype="text/plain">a#content</mattext>
+              </material>
+            </response_label>
+            <response_label ident="83142">
+              <material>
+                <mattext texttype="text/plain">content#a</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">71388</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g57e0d78e81a7b28b382438ecc0bb5e14" title="From the choices bel">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>76771,96981,83969,70484</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;From the choices below select the correct order to code CSS pseudo-classes.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="76771">
+              <material>
+                <mattext texttype="text/plain">link, hover, visited, active</mattext>
+              </material>
+            </response_label>
+            <response_label ident="96981">
+              <material>
+                <mattext texttype="text/plain">hover, link, active, visited</mattext>
+              </material>
+            </response_label>
+            <response_label ident="83969">
+              <material>
+                <mattext texttype="text/plain">link, visited, hover, active</mattext>
+              </material>
+            </response_label>
+            <response_label ident="70484">
+              <material>
+                <mattext texttype="text/plain">link, hover, active, visited</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">83969</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g4d90e1392d6f685f6db59f3e02e05c62" title="If an element is con">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>49259,78977,79981,15840</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;If an element is configured with _______ the other content on the page will appear to its left.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="49259">
+              <material>
+                <mattext texttype="text/plain">position: left;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="78977">
+              <material>
+                <mattext texttype="text/plain">position: relative;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="79981">
+              <material>
+                <mattext texttype="text/plain">float :left;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="15840">
+              <material>
+                <mattext texttype="text/plain">float: right;</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">15840</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g78bfdcf1f58139038d3bd61cfd5aef4e" title="Select the example b">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>68484,33256,86848,75134</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Select the example below that could be used to clear a right float.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="68484">
+              <material>
+                <mattext texttype="text/plain">clear: right;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="33256">
+              <material>
+                <mattext texttype="text/plain">clear: left;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="86848">
+              <material>
+                <mattext texttype="text/plain">right: clear;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="75134">
+              <material>
+                <mattext texttype="text/plain">overflow: right;</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">68484</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g0d56f89d9c7eecc123ea97496245be80" title="Select the example b 2">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>52562,79428,34698,25608</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Select the example below that configures a container to clear all floated elements that are within the container.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="52562">
+              <material>
+                <mattext texttype="text/plain">clear: both;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="79428">
+              <material>
+                <mattext texttype="text/plain">overflow: all;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="34698">
+              <material>
+                <mattext texttype="text/plain">overflow: auto;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="25608">
+              <material>
+                <mattext texttype="text/plain">clear: all;</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">34698</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g4eeb8191d1eaaceeec03d3d1fb515aa4" title="Select the property">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>46360,35809,6539,46484</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Select the property that is useful to remove the underline from a hyperlink.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="46360">
+              <material>
+                <mattext texttype="text/plain">font-style</mattext>
+              </material>
+            </response_label>
+            <response_label ident="35809">
+              <material>
+                <mattext texttype="text/plain">underline</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6539">
+              <material>
+                <mattext texttype="text/plain">text-decoration</mattext>
+              </material>
+            </response_label>
+            <response_label ident="46484">
+              <material>
+                <mattext texttype="text/plain">u</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">6539</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="gdc23ceae755fb40bf78f74013cdcfd8b" title="The CSS to create th">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>88583,40669,10288,24965</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;The CSS to create the class called myfloat that floats to the right of the other page content, has a 10px margin, and a solid border is:&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="88583">
+              <material>
+                <mattext texttype="text/plain">.myfloat { float:right; margin:10px; border: 1px solid #000000; }</mattext>
+              </material>
+            </response_label>
+            <response_label ident="40669">
+              <material>
+                <mattext texttype="text/plain">#myfloat { right:float: margin 10px; border: 1px solid #000000; }</mattext>
+              </material>
+            </response_label>
+            <response_label ident="10288">
+              <material>
+                <mattext texttype="text/plain">.myfloat { float:right; 10px:margin; border: 1px solid #000000; }</mattext>
+              </material>
+            </response_label>
+            <response_label ident="24965">
+              <material>
+                <mattext texttype="text/plain">.myfloat { float:right; margin:10px; border: on; }</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">88583</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g0d01a53c71f50a1a7cff6879304cd057" title="The _______ property">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>2233,87509,85446,58755</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;The _______ property configures the stacking order of a positioned element on a web page.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="2233">
+              <material>
+                <mattext texttype="text/plain">z-index</mattext>
+              </material>
+            </response_label>
+            <response_label ident="87509">
+              <material>
+                <mattext texttype="text/plain">stacking</mattext>
+              </material>
+            </response_label>
+            <response_label ident="85446">
+              <material>
+                <mattext texttype="text/plain">display</mattext>
+              </material>
+            </response_label>
+            <response_label ident="58755">
+              <material>
+                <mattext texttype="text/plain">stack</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">2233</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g7150e20cf80459be24343e17378f9d24" title="The _______ pseudo-c">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>90630,52665,7553,41267</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;The _______ pseudo-class configures the styles that will apply when the mouse is placed over a hyperlink.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="90630">
+              <material>
+                <mattext texttype="text/plain">:hover</mattext>
+              </material>
+            </response_label>
+            <response_label ident="52665">
+              <material>
+                <mattext texttype="text/plain">:click</mattext>
+              </material>
+            </response_label>
+            <response_label ident="7553">
+              <material>
+                <mattext texttype="text/plain">:active</mattext>
+              </material>
+            </response_label>
+            <response_label ident="41267">
+              <material>
+                <mattext texttype="text/plain">:over</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">90630</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g48b5acaf39f315150b311fd2804779c5" title="The _______ pseudo-c 2">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>51607,78161,40037,81970</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;The _______ pseudo-class configures the styles that will apply when a hyperlink is clicked,&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="51607">
+              <material>
+                <mattext texttype="text/plain">:hover</mattext>
+              </material>
+            </response_label>
+            <response_label ident="78161">
+              <material>
+                <mattext texttype="text/plain">:click</mattext>
+              </material>
+            </response_label>
+            <response_label ident="40037">
+              <material>
+                <mattext texttype="text/plain">:active</mattext>
+              </material>
+            </response_label>
+            <response_label ident="81970">
+              <material>
+                <mattext texttype="text/plain">:over</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">40037</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="gfdcecd3b8c01ff878c3179f78f3a85e6" title="The _______ pseudo-c 3">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>68086,63062,99850,84674</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;The _______ pseudo-class configures the styles that will apply for a hyperlink that has not been visited by the user.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="68086">
+              <material>
+                <mattext texttype="text/plain">:unvisited</mattext>
+              </material>
+            </response_label>
+            <response_label ident="63062">
+              <material>
+                <mattext texttype="text/plain">:link</mattext>
+              </material>
+            </response_label>
+            <response_label ident="99850">
+              <material>
+                <mattext texttype="text/plain">:visited</mattext>
+              </material>
+            </response_label>
+            <response_label ident="84674">
+              <material>
+                <mattext texttype="text/plain">:new</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">63062</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g8427b9bc2686f7620808b1adb52a094b" title="Use _______ position">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>82418,27781,84125,79761</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Use _______ positioning to slightly change the location of an element in relation to where it would otherwise appear when rendered by a browser.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="82418">
+              <material>
+                <mattext texttype="text/plain">absolute</mattext>
+              </material>
+            </response_label>
+            <response_label ident="27781">
+              <material>
+                <mattext texttype="text/plain">static</mattext>
+              </material>
+            </response_label>
+            <response_label ident="84125">
+              <material>
+                <mattext texttype="text/plain">relative</mattext>
+              </material>
+            </response_label>
+            <response_label ident="79761">
+              <material>
+                <mattext texttype="text/plain">fixed</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">84125</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g242adda6d7581a55d65afd7f939391b1" title="Use _______ position 2">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>31022,16185,4065,27837</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Use _______ positioning to configure the location of an element to remain the same and to not move even when the web page is scrolled within the browser viewport.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="31022">
+              <material>
+                <mattext texttype="text/plain">absolute</mattext>
+              </material>
+            </response_label>
+            <response_label ident="16185">
+              <material>
+                <mattext texttype="text/plain">static</mattext>
+              </material>
+            </response_label>
+            <response_label ident="4065">
+              <material>
+                <mattext texttype="text/plain">relative</mattext>
+              </material>
+            </response_label>
+            <response_label ident="27837">
+              <material>
+                <mattext texttype="text/plain">fixed</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">27837</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g0c487ccfd27d6002a9f2a89228968d58" title="Use _______ position 3">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>48342,67994,98780,69246</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Use _______ positioning to precisely configure the location of an element outside of normal flow.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="48342">
+              <material>
+                <mattext texttype="text/plain">absolute</mattext>
+              </material>
+            </response_label>
+            <response_label ident="67994">
+              <material>
+                <mattext texttype="text/plain">static</mattext>
+              </material>
+            </response_label>
+            <response_label ident="98780">
+              <material>
+                <mattext texttype="text/plain">relative</mattext>
+              </material>
+            </response_label>
+            <response_label ident="69246">
+              <material>
+                <mattext texttype="text/plain">fixed</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">48342</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g4bc8b53c85708ea2c4e4882a526bfd42" title="Use the _______ attr">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>74112,29160,950,71203</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Use the _______ attribute in the HTML link element to associate a web page with a style sheet for printing.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="74112">
+              <material>
+                <mattext texttype="text/html">media="print"</mattext>
+              </material>
+            </response_label>
+            <response_label ident="29160">
+              <material>
+                <mattext texttype="text/html">out="printer"</mattext>
+              </material>
+            </response_label>
+            <response_label ident="950">
+              <material>
+                <mattext texttype="text/html">media="paper"</mattext>
+              </material>
+            </response_label>
+            <response_label ident="71203">
+              <material>
+                <mattext texttype="text/html">media="screen"</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">74112</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g2f8c618a213b99f888fac49a71518bef" title="Use the _______ or _">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>25130,58197,1632,90630</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Use the _______ or _______ property to clear a float.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="25130">
+              <material>
+                <mattext texttype="text/plain">float or clear</mattext>
+              </material>
+            </response_label>
+            <response_label ident="58197">
+              <material>
+                <mattext texttype="text/plain">clear or overflow</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1632">
+              <material>
+                <mattext texttype="text/plain">position or clear</mattext>
+              </material>
+            </response_label>
+            <response_label ident="90630">
+              <material>
+                <mattext texttype="text/plain">overflow or float</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">58197</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g8d3d03abf1c8994e90af0b0229828901" title="Use the _______ prop">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>57021,13671,33969,98346</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Use the _______ property to eliminate the bullets from an unordered list.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="57021">
+              <material>
+                <mattext texttype="text/plain">bullet-image</mattext>
+              </material>
+            </response_label>
+            <response_label ident="13671">
+              <material>
+                <mattext texttype="text/plain">list-style-none</mattext>
+              </material>
+            </response_label>
+            <response_label ident="33969">
+              <material>
+                <mattext texttype="text/plain">list-style-type</mattext>
+              </material>
+            </response_label>
+            <response_label ident="98346">
+              <material>
+                <mattext texttype="text/plain">list-style-image</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">13671</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g641f9d0bd46e3c42619512578169278f" title="Use the _______ prop 2">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>45877,81261,24035,94858</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Use the _______ property along with the left, right and/or top property to precisely configure the position of an element.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="45877">
+              <material>
+                <mattext texttype="text/plain">position: absolute;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="81261">
+              <material>
+                <mattext texttype="text/plain">position: relative;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="24035">
+              <material>
+                <mattext texttype="text/plain">position: float;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="94858">
+              <material>
+                <mattext texttype="text/plain">absolute: position;</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">24035</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g073b3bd5b8a4409898031db161285693" title="What is the term use">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>39474,99453,1360,6232</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;What is the term used to describe image file that contains multiple small graphics?&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="39474">
+              <material>
+                <mattext texttype="text/plain">thumbnail image</mattext>
+              </material>
+            </response_label>
+            <response_label ident="99453">
+              <material>
+                <mattext texttype="text/plain">sprite</mattext>
+              </material>
+            </response_label>
+            <response_label ident="1360">
+              <material>
+                <mattext texttype="text/plain">image link</mattext>
+              </material>
+            </response_label>
+            <response_label ident="6232">
+              <material>
+                <mattext texttype="text/plain">viewport</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">99453</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g8606c8fbc74c7af2a8282066a8d85f34" title="When used as a selec">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>89675,68727,33227,50351</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;When used as a selector in CSS, the _______ character represents the universal selector.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="89675">
+              <material>
+                <mattext texttype="text/plain">#</mattext>
+              </material>
+            </response_label>
+            <response_label ident="68727">
+              <material>
+                <mattext texttype="text/html">&amp;amp;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="33227">
+              <material>
+                <mattext texttype="text/plain">*</mattext>
+              </material>
+            </response_label>
+            <response_label ident="50351">
+              <material>
+                <mattext texttype="text/plain">/</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">33227</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g19cff8a4d1e3fc71bc4c2098a2065e0e" title="Which value for the">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>76103,18250,55893,81114</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;Which value for the display property is useful when configuring horizontal navigation within an unordered list?&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="76103">
+              <material>
+                <mattext texttype="text/plain">none</mattext>
+              </material>
+            </response_label>
+            <response_label ident="18250">
+              <material>
+                <mattext texttype="text/plain">block</mattext>
+              </material>
+            </response_label>
+            <response_label ident="55893">
+              <material>
+                <mattext texttype="text/plain">inline</mattext>
+              </material>
+            </response_label>
+            <response_label ident="81114">
+              <material>
+                <mattext texttype="text/plain">fixed</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">55893</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g61e7483c2041a59c85b9fbbdb3b81c89" title="flow displays the el">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>24369,99266,24452,50656</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;_______ flow displays the elements on the page in the order they appear in the web page source code.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="24369">
+              <material>
+                <mattext texttype="text/plain">default</mattext>
+              </material>
+            </response_label>
+            <response_label ident="99266">
+              <material>
+                <mattext texttype="text/plain">source code</mattext>
+              </material>
+            </response_label>
+            <response_label ident="24452">
+              <material>
+                <mattext texttype="text/plain">browser</mattext>
+              </material>
+            </response_label>
+            <response_label ident="50656">
+              <material>
+                <mattext texttype="text/plain">normal</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">50656</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+    <item ident="g682f863f6198791aa222e92baead70c7" title="will cause an object">
+      <itemmetadata>
+        <qtimetadata>
+          <qtimetadatafield>
+            <fieldlabel>question_type</fieldlabel>
+            <fieldentry>multiple_choice_question</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>points_possible</fieldlabel>
+            <fieldentry>10.0</fieldentry>
+          </qtimetadatafield>
+          <qtimetadatafield>
+            <fieldlabel>original_answer_ids</fieldlabel>
+            <fieldentry>6643,82406,4550,73440</fieldentry>
+          </qtimetadatafield>
+        </qtimetadata>
+      </itemmetadata>
+      <presentation>
+        <material>
+          <mattext texttype="text/html">&lt;div&gt;_______ will cause an object not to display.&lt;/div&gt;</mattext>
+        </material>
+        <response_lid ident="response1" rcardinality="Single">
+          <render_choice>
+            <response_label ident="6643">
+              <material>
+                <mattext texttype="text/plain">display: block;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="82406">
+              <material>
+                <mattext texttype="text/plain">display: 0px;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="4550">
+              <material>
+                <mattext texttype="text/plain">display: none;</mattext>
+              </material>
+            </response_label>
+            <response_label ident="73440">
+              <material>
+                <mattext texttype="text/plain">display: fixed;</mattext>
+              </material>
+            </response_label>
+          </render_choice>
+        </response_lid>
+      </presentation>
+      <resprocessing>
+        <outcomes>
+          <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+        </outcomes>
+        <respcondition continue="No">
+          <conditionvar>
+            <varequal respident="response1">4550</varequal>
+          </conditionvar>
+          <setvar action="Set" varname="SCORE">100</setvar>
+        </respcondition>
+      </resprocessing>
+    </item>
+  </objectbank>
+</questestinterop>
